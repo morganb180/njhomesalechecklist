@@ -1,0 +1,28 @@
+# NJ Home Sale Checklist
+
+> NJ Home Sale Checklist is a free guide to the inspections and certificates involved in selling or buying a New Jersey home: the smoke/CO alarm certificate, well testing, radon, oil tanks and lead, with a directory of DCA-certified lead evaluation contractors.
+
+It is for New Jersey sellers, buyers, agents and closing attorneys. Listings: NJ DCA certified lead evaluation contractors (list revised 8/11/2026). NJDEP lists (well-testing labs, radon businesses, UST closure firms) could not be fetched automatically. Those pages link to the official lookup instead. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://njhomesalechecklist.com/index.md).
+
+## Checklist & guides
+- [New Jersey Home Sale Checklist: Inspections & Certificates](https://njhomesalechecklist.com/home-sale-checklist/): hub
+- [NJ Smoke & CO Alarm Certificate for Home Sales (CSACMAPFEC)](https://njhomesalechecklist.com/smoke-co-certificate/): statewide rules
+- [NJ Smoke & CO Certificate by Town](https://njhomesalechecklist.com/smoke-co-certificate/towns/): town pages
+- [NJ Private Well Testing Act (PWTA) at Home Sale](https://njhomesalechecklist.com/well-testing/)
+- [Radon Testing in a NJ Home Sale](https://njhomesalechecklist.com/radon/)
+- [Oil Tanks (USTs) in a NJ Home Sale: Sweeps & Closure](https://njhomesalechecklist.com/oil-tanks/)
+
+## Directory
+- [NJ Certified Lead Evaluation Contractors by County](https://njhomesalechecklist.com/lead/): DCA-certified lead evaluation contractors by county
+
+## About
+- [About NJ Home Sale Checklist](https://njhomesalechecklist.com/about/)
+- [About Our Data](https://njhomesalechecklist.com/about-our-data/): sources, terms, failures
+- [How We Verify Listings](https://njhomesalechecklist.com/how-we-verify/): verification steps and dates
+- [List, Claim, Correct or Remove a Listing](https://njhomesalechecklist.com/list-your-business/)
+- [Contact](https://njhomesalechecklist.com/contact/)
+- [Privacy Policy](https://njhomesalechecklist.com/privacy/)
+
+## Optional
+- [llms-full.txt](https://njhomesalechecklist.com/llms-full.txt): every page on the site
+- [Sitemap](https://njhomesalechecklist.com/sitemap.xml)

@@ -1,0 +1,93 @@
+---
+title: "Lead Evaluation Contractors in Somerset County, NJ: 6 DCA-Certified | NJ Home Sale Checklist"
+description: "6 NJ DCA-certified lead evaluation contractors based in Somerset County, NJ, with cert numbers, expiry dates and phone numbers."
+canonical: https://njhomesalechecklist.com/lead/somerset/
+---
+
+[Home](https://njhomesalechecklist.com/) › [Lead evaluators](https://njhomesalechecklist.com/lead/) › Somerset
+
+# DCA-certified lead evaluation contractors in Somerset County, NJ
+
+6 contractors on the DCA list give an address in Somerset County, NJ. Many work statewide.
+
+NJ requires lead-safe certification inspections of most pre-1978 rental units at tenant turnover (P.L.2021, c.182). DCA-certified lead evaluation contractors do these inspections and other lead evaluations ([NJ DCA lead-safe certification](https://www.nj.gov/dca/codes/resources/leadpaint.shtml)). Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
+
+## Certified contractors (6)
+
+✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
+
+### Sc Services, LLC
+
+53 Aspen Dr, Basking Ridge, NJ 07920  
+☎ [(908) 552-0203](tel:9085520203)  
+Contact: Si Chen
+
+DCA cert #00839, expires 2027-02-28  
+Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00839)
+
+✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
+
+### Amg Environmental Svcs.
+
+971 US Hwy 202 N, Branchburg, NJ 08876  
+☎ [(917) 939-0019](tel:9179390019)  
+Contact: George Miltiadou
+
+DCA cert #00888, expires 2027-07-31  
+Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00888)
+
+✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
+
+### Lead Consultants of America
+
+220 Davidson Ave Suite 205, Somerset, NJ 08873  
+☎ [(732) 418-9006](tel:7324189006)  
+Contact: Justin Mastykarz
+
+DCA cert #00317, expires 2028-06-11  
+Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00317)
+
+✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
+
+### Mvb Homes, LLC
+
+39 Cornelius Way, Somerset, NJ 08873  
+☎ [(732) 662-0798](tel:7326620798)  
+Contact: Mark Van Burik
+
+DCA cert #00802, expires 2028-04-30  
+Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00802)
+
+✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
+
+### Comprehensive Env. Services
+
+88 3rd St, Somerville, NJ 08876  
+☎ [(732) 841-6161](tel:7328416161)  
+Contact: Neheru Singh
+
+DCA cert #00891, expires 2027-11-30  
+Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00891)
+
+✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
+
+### Cornerstone Home Inspection
+
+62 Mountain Ave, Warren, NJ 07059  
+☎ [(973) 650-4151](tel:9736504151)  
+Contact: Michael Dominianni
+
+DCA cert #00748, expires 2027-05-31  
+Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00748)
+
+[All counties →](https://njhomesalechecklist.com/lead/)
+
+Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluation contractors (rev. 8/11/2026).
+
+## Neighboring counties
+
+[Mercer County](https://njhomesalechecklist.com/lead/mercer/) · [Middlesex County](https://njhomesalechecklist.com/lead/middlesex/) · [Morris County](https://njhomesalechecklist.com/lead/morris/) · [Union County](https://njhomesalechecklist.com/lead/union/)
+
+## Guides
+
+[Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/) · [Smoke/CO certificate](https://njhomesalechecklist.com/smoke-co-certificate/) · [Well testing](https://njhomesalechecklist.com/well-testing/) · [Radon](https://njhomesalechecklist.com/radon/) · [Oil tanks](https://njhomesalechecklist.com/oil-tanks/)

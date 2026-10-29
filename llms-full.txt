@@ -1,0 +1,98 @@
+# NJ Home Sale Checklist
+
+> NJ Home Sale Checklist is a free guide to the inspections and certificates involved in selling or buying a New Jersey home: the smoke/CO alarm certificate, well testing, radon, oil tanks and lead, with a directory of DCA-certified lead evaluation contractors.
+
+It is for New Jersey sellers, buyers, agents and closing attorneys. Listings: NJ DCA certified lead evaluation contractors (list revised 8/11/2026). NJDEP lists (well-testing labs, radon businesses, UST closure firms) could not be fetched automatically. Those pages link to the official lookup instead. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://njhomesalechecklist.com/index.md).
+
+## Checklist & guides
+- [New Jersey Home Sale Checklist: Inspections & Certificates](https://njhomesalechecklist.com/home-sale-checklist/): hub
+- [NJ Smoke & CO Alarm Certificate for Home Sales (CSACMAPFEC)](https://njhomesalechecklist.com/smoke-co-certificate/): statewide rules
+- [NJ Smoke & CO Certificate by Town](https://njhomesalechecklist.com/smoke-co-certificate/towns/): town pages
+- [NJ Private Well Testing Act (PWTA) at Home Sale](https://njhomesalechecklist.com/well-testing/)
+- [Radon Testing in a NJ Home Sale](https://njhomesalechecklist.com/radon/)
+- [Oil Tanks (USTs) in a NJ Home Sale: Sweeps & Closure](https://njhomesalechecklist.com/oil-tanks/)
+
+## Directory
+- [NJ Certified Lead Evaluation Contractors by County](https://njhomesalechecklist.com/lead/): DCA-certified lead evaluation contractors by county
+
+## About
+- [About NJ Home Sale Checklist](https://njhomesalechecklist.com/about/)
+- [About Our Data](https://njhomesalechecklist.com/about-our-data/): sources, terms, failures
+- [How We Verify Listings](https://njhomesalechecklist.com/how-we-verify/): verification steps and dates
+- [List, Claim, Correct or Remove a Listing](https://njhomesalechecklist.com/list-your-business/)
+- [Contact](https://njhomesalechecklist.com/contact/)
+- [Privacy Policy](https://njhomesalechecklist.com/privacy/)
+
+## Optional
+- [llms-full.txt](https://njhomesalechecklist.com/llms-full.txt): every page on the site
+- [Sitemap](https://njhomesalechecklist.com/sitemap.xml)
+
+## Lead evaluator county pages
+- [Lead Evaluation Contractors in Atlantic County, NJ: 2 DCA-Certified](https://njhomesalechecklist.com/lead/atlantic/)
+- [Lead Evaluation Contractors in Bergen County, NJ: 21 DCA-Certified](https://njhomesalechecklist.com/lead/bergen/)
+- [Lead Evaluation Contractors in Burlington County, NJ: 10 DCA-Certified](https://njhomesalechecklist.com/lead/burlington/)
+- [Lead Evaluation Contractors in Camden County, NJ: 12 DCA-Certified](https://njhomesalechecklist.com/lead/camden/)
+- [Lead Evaluation Contractors in Cape May County, NJ: 1 DCA-Certified](https://njhomesalechecklist.com/lead/cape-may/)
+- [Lead Evaluation Contractors in Cumberland County, NJ: 5 DCA-Certified](https://njhomesalechecklist.com/lead/cumberland/)
+- [Lead Evaluation Contractors in Essex County, NJ: 14 DCA-Certified](https://njhomesalechecklist.com/lead/essex/)
+- [Lead Evaluation Contractors in Gloucester County, NJ: 4 DCA-Certified](https://njhomesalechecklist.com/lead/gloucester/)
+- [Lead Evaluation Contractors in Hudson County, NJ: 2 DCA-Certified](https://njhomesalechecklist.com/lead/hudson/)
+- [Lead Evaluation Contractors in Mercer County, NJ: 5 DCA-Certified](https://njhomesalechecklist.com/lead/mercer/)
+- [Lead Evaluation Contractors in Middlesex County, NJ: 11 DCA-Certified](https://njhomesalechecklist.com/lead/middlesex/)
+- [Lead Evaluation Contractors in Monmouth County, NJ: 10 DCA-Certified](https://njhomesalechecklist.com/lead/monmouth/)
+- [Lead Evaluation Contractors in Morris County, NJ: 15 DCA-Certified](https://njhomesalechecklist.com/lead/morris/)
+- [Lead Evaluation Contractors in Ocean County, NJ: 10 DCA-Certified](https://njhomesalechecklist.com/lead/ocean/)
+- [Lead Evaluation Contractors in Passaic County, NJ: 8 DCA-Certified](https://njhomesalechecklist.com/lead/passaic/)
+- [Lead Evaluation Contractors in Somerset County, NJ: 6 DCA-Certified](https://njhomesalechecklist.com/lead/somerset/)
+- [Lead Evaluation Contractors in Sussex County, NJ: 3 DCA-Certified](https://njhomesalechecklist.com/lead/sussex/)
+- [Lead Evaluation Contractors in Union County, NJ: 13 DCA-Certified](https://njhomesalechecklist.com/lead/union/)
+- [Lead Evaluation Contractors in Warren County, NJ: 5 DCA-Certified](https://njhomesalechecklist.com/lead/warren/)
+- [Out-of-State NJ Lead Evaluation Contractors](https://njhomesalechecklist.com/lead/out-of-state/)
+
+## Lead
+- [NJ Certified Lead Evaluation Contractors by County](https://njhomesalechecklist.com/lead/)
+
+## Guides
+- [NJ Smoke & CO Alarm Certificate for Home Sales (CSACMAPFEC)](https://njhomesalechecklist.com/smoke-co-certificate/)
+- [NJ Smoke & CO Certificate by Town](https://njhomesalechecklist.com/smoke-co-certificate/towns/)
+- [NJ Private Well Testing Act (PWTA) at Home Sale](https://njhomesalechecklist.com/well-testing/)
+- [Radon Testing in a NJ Home Sale](https://njhomesalechecklist.com/radon/)
+- [Oil Tanks (USTs) in a NJ Home Sale: Sweeps & Closure](https://njhomesalechecklist.com/oil-tanks/)
+- [New Jersey Home Sale Checklist: Inspections & Certificates](https://njhomesalechecklist.com/home-sale-checklist/)
+
+## Town smoke/CO pages
+- [Smoke & CO Certificate in Newark, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/newark/)
+- [Smoke & CO Certificate in Jersey City, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/jersey-city/)
+- [Smoke & CO Certificate in Toms River, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/toms-river/)
+- [Smoke & CO Certificate in Edison, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/edison/)
+- [Smoke & CO Certificate in Cherry Hill, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/cherry-hill/)
+- [Smoke & CO Certificate in Montclair, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/montclair/)
+- [Smoke & CO Certificate in Woodbridge, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/woodbridge/)
+- [Smoke & CO Certificate in Lakewood, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/lakewood/)
+- [Smoke & CO Certificate in Hamilton (Mercer), NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/hamilton-mercer/)
+- [Smoke & CO Certificate in Clifton, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/clifton/)
+- [Smoke & CO Certificate in Princeton, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/princeton/)
+- [Smoke & CO Certificate in Paterson, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/paterson/)
+- [Smoke & CO Certificate in Elizabeth, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/elizabeth/)
+- [Smoke & CO Certificate in Trenton, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/trenton/)
+- [Smoke & CO Certificate in Camden, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/camden/)
+- [Smoke & CO Certificate in Brick, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/brick/)
+- [Smoke & CO Certificate in Middletown, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/middletown/)
+- [Smoke & CO Certificate in Old Bridge, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/old-bridge/)
+- [Smoke & CO Certificate in Union Township, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/union-township/)
+- [Smoke & CO Certificate in Bayonne, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/bayonne/)
+- [Smoke & CO Certificate in Vineland, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/vineland/)
+- [Smoke & CO Certificate in Hoboken, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/hoboken/)
+- [Smoke & CO Certificate in Passaic, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/passaic/)
+- [Smoke & CO Certificate in Gloucester Township, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/gloucester-township/)
+- [Smoke & CO Certificate in Piscataway, NJ: Who Issues It, Fees & Timing](https://njhomesalechecklist.com/smoke-co-certificate/piscataway/)
+
+## Pages
+- [NJ Home Sale Checklist: Home Sale Inspections & Certificates](https://njhomesalechecklist.com/)
+- [About Our Data](https://njhomesalechecklist.com/about-our-data/)
+- [About NJ Home Sale Checklist](https://njhomesalechecklist.com/about/)
+- [Contact](https://njhomesalechecklist.com/contact/)
+- [Privacy Policy](https://njhomesalechecklist.com/privacy/)
+- [How We Make Money](https://njhomesalechecklist.com/how-we-make-money/)
+- [List, Claim, Correct or Remove a Listing](https://njhomesalechecklist.com/list-your-business/)
+- [How We Verify Listings](https://njhomesalechecklist.com/how-we-verify/)
