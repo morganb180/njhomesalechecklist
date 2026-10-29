@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "nj-home-sale-checklist-find-firms",
+      "type": "skill-md",
+      "description": "Find NJ DCA-certified lead evaluation contractors on NJ Home Sale Checklist by city/town or county, with credentials and links to each listing.",
+      "url": "https://njhomesalechecklist.com/.well-known/agent-skills/nj-home-sale-checklist-find-firms/SKILL.md",
+      "digest": "sha256:fefa5801c4c292eef01bf0b4f409bfc9ffc9008b024cea33974aceb1f7be5498"
+    }
+  ]
+}

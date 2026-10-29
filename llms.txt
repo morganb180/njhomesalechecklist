@@ -23,6 +23,14 @@ It is for New Jersey sellers, buyers, agents and closing attorneys. Listings: NJ
 - [Contact](https://njhomesalechecklist.com/contact/)
 - [Privacy Policy](https://njhomesalechecklist.com/privacy/)
 
+## Agent API
+- [API catalog](https://njhomesalechecklist.com/.well-known/api-catalog): RFC 9727 linkset
+- [OpenAPI spec](https://njhomesalechecklist.com/openapi.json): search API
+- [Feed index](https://njhomesalechecklist.com/api/index.json): data sources, last-updated date, county/city feeds
+- [All firms (JSON)](https://njhomesalechecklist.com/api/firms.json)
+- [MCP server card](https://njhomesalechecklist.com/.well-known/mcp.json): remote MCP at https://leads.radonroster.com/mcp?site=njhome
+- [Agent skills](https://njhomesalechecklist.com/.well-known/agent-skills/index.json)
+
 ## Optional
 - [llms-full.txt](https://njhomesalechecklist.com/llms-full.txt): every page on the site
 - [Sitemap](https://njhomesalechecklist.com/sitemap.xml)

@@ -1,0 +1,223 @@
+{
+  "$comment": "Agent-facing feeds for NJ Home Sale Checklist",
+  "site": "njhome",
+  "name": "NJ Home Sale Checklist",
+  "url": "https://njhomesalechecklist.com/",
+  "description": "Public listing data for NJ DCA-certified lead evaluation contractors.",
+  "generated": "2026-10-29",
+  "last_updated": "2026-10-12",
+  "data_source": {
+    "description": "Official licence/certification records as published on the site; each firm record has its own source URL and retrieval date.",
+    "sources": [
+      {
+        "url": "https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf",
+        "agency": "New Jersey Department of Community Affairs (NJ DCA)",
+        "retrieved": "2026-10-12",
+        "firms": 181
+      }
+    ]
+  },
+  "attribution": "Listing data from NJ Home Sale Checklist (https://njhomesalechecklist.com/), built from public licence records. Not an endorsement.",
+  "counts": {
+    "firms": 181,
+    "counties": 19,
+    "cities": 0,
+    "states": 0
+  },
+  "services": [
+    {
+      "code": "lead_evaluation",
+      "label": "NJ DCA-certified lead evaluation contractor"
+    }
+  ],
+  "fields_excluded": "Phone, email and street address are not included; see each firm_url.",
+  "endpoints": {
+    "firms": "https://njhomesalechecklist.com/api/firms.json",
+    "county": "https://njhomesalechecklist.com/api/county/{slug}.json",
+    "city": null,
+    "state": null,
+    "search": "https://leads.radonroster.com/api/firms?site=njhome",
+    "quote": null,
+    "mcp": "https://leads.radonroster.com/mcp?site=njhome",
+    "openapi": "https://njhomesalechecklist.com/openapi.json",
+    "api_catalog": "https://njhomesalechecklist.com/.well-known/api-catalog"
+  },
+  "search_by_zip": false,
+  "quote_requests": false,
+  "states": [],
+  "counties": [
+    {
+      "slug": "atlantic",
+      "name": "DCA-certified lead evaluation contractors in Atlantic County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/atlantic/",
+      "feed": "https://njhomesalechecklist.com/api/county/atlantic.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "bergen",
+      "name": "DCA-certified lead evaluation contractors in Bergen County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/bergen/",
+      "feed": "https://njhomesalechecklist.com/api/county/bergen.json",
+      "count": 21,
+      "local_count": 21
+    },
+    {
+      "slug": "burlington",
+      "name": "DCA-certified lead evaluation contractors in Burlington County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/burlington/",
+      "feed": "https://njhomesalechecklist.com/api/county/burlington.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "camden",
+      "name": "DCA-certified lead evaluation contractors in Camden County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/camden/",
+      "feed": "https://njhomesalechecklist.com/api/county/camden.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "cape-may",
+      "name": "DCA-certified lead evaluation contractors in Cape May County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/cape-may/",
+      "feed": "https://njhomesalechecklist.com/api/county/cape-may.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "cumberland",
+      "name": "DCA-certified lead evaluation contractors in Cumberland County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/cumberland/",
+      "feed": "https://njhomesalechecklist.com/api/county/cumberland.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "essex",
+      "name": "DCA-certified lead evaluation contractors in Essex County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/essex/",
+      "feed": "https://njhomesalechecklist.com/api/county/essex.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "gloucester",
+      "name": "DCA-certified lead evaluation contractors in Gloucester County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/gloucester/",
+      "feed": "https://njhomesalechecklist.com/api/county/gloucester.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "hudson",
+      "name": "DCA-certified lead evaluation contractors in Hudson County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/hudson/",
+      "feed": "https://njhomesalechecklist.com/api/county/hudson.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "mercer",
+      "name": "DCA-certified lead evaluation contractors in Mercer County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/mercer/",
+      "feed": "https://njhomesalechecklist.com/api/county/mercer.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "middlesex",
+      "name": "DCA-certified lead evaluation contractors in Middlesex County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/middlesex/",
+      "feed": "https://njhomesalechecklist.com/api/county/middlesex.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "monmouth",
+      "name": "DCA-certified lead evaluation contractors in Monmouth County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/monmouth/",
+      "feed": "https://njhomesalechecklist.com/api/county/monmouth.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "morris",
+      "name": "DCA-certified lead evaluation contractors in Morris County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/morris/",
+      "feed": "https://njhomesalechecklist.com/api/county/morris.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "ocean",
+      "name": "DCA-certified lead evaluation contractors in Ocean County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/ocean/",
+      "feed": "https://njhomesalechecklist.com/api/county/ocean.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "passaic",
+      "name": "DCA-certified lead evaluation contractors in Passaic County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/passaic/",
+      "feed": "https://njhomesalechecklist.com/api/county/passaic.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "somerset",
+      "name": "DCA-certified lead evaluation contractors in Somerset County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/somerset/",
+      "feed": "https://njhomesalechecklist.com/api/county/somerset.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "sussex",
+      "name": "DCA-certified lead evaluation contractors in Sussex County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/sussex/",
+      "feed": "https://njhomesalechecklist.com/api/county/sussex.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "union",
+      "name": "DCA-certified lead evaluation contractors in Union County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/union/",
+      "feed": "https://njhomesalechecklist.com/api/county/union.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "warren",
+      "name": "DCA-certified lead evaluation contractors in Warren County, NJ",
+      "state": "NJ",
+      "page": "https://njhomesalechecklist.com/lead/warren/",
+      "feed": "https://njhomesalechecklist.com/api/county/warren.json",
+      "count": 5,
+      "local_count": 5
+    }
+  ],
+  "cities": [],
+  "quote_note": "This directory does not take agent quote requests yet; use firm_url to contact firms."
+}
