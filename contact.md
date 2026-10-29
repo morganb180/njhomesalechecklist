@@ -1,6 +1,6 @@
 ---
 title: "Contact | NJ Home Sale Checklist"
-description: "How to reach us about listings, corrections or questions."
+description: "Contact NJ Home Sale Checklist about a guide, a correction or a listing. We are an independent guide, not a contractor, inspector or government agency."
 canonical: https://njhomesalechecklist.com/contact/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Smoke & CO Certificate in Jersey City, NJ: Who Issues It, Fees & Timing | NJ Home Sale Checklist"
+title: "Smoke & CO Certificate in Jersey City, NJ: Fees & Timing"
 description: "Who issues the smoke alarm / CO certificate (CSACMAPFEC) for a home sale in Jersey City, Hudson County, NJ, with the state rules, fees and timing."
 canonical: https://njhomesalechecklist.com/smoke-co-certificate/jersey-city/
 ---
@@ -8,9 +8,13 @@ canonical: https://njhomesalechecklist.com/smoke-co-certificate/jersey-city/
 
 # Smoke and CO alarm certificate in Jersey City, NJ
 
+**Quick answer:** Selling or renting out a one- or two-family home in Jersey City (Hudson County) needs a certificate of smoke alarm and carbon monoxide alarm compliance before the new occupant moves in. In Jersey City, the issuing agency is Jersey City Division of Fire, Fire Prevention Bureau. The state default fee is $45 if requested more than 10 business days ahead; towns may set their own fees, so confirm the fee and lead time with the town.
+
 Selling or renting out a one- or two-family home in Jersey City (Hudson County)? You need a certificate of smoke alarm and carbon monoxide alarm compliance before the new occupant moves in.
 
-## Jersey City: who issues it official source
+## Who issues the smoke and CO certificate in Jersey City, NJ? (official source)
+
+In Jersey City, the issuing agency is Jersey City Division of Fire, Fire Prevention Bureau.
 
 **Issuing agency:** Jersey City Division of Fire, Fire Prevention Bureau.  
 **Official source:** <https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_6189660/File/City%20Hall/Public%20Safety/Fire%20Prevention/10_31_2023_SaleOfHome_SmokeCertForm.pdf> (found 2026-10-12).
@@ -19,7 +23,9 @@ The city publishes a sale-of-home smoke/CO/extinguisher certification form (PDF)
 
 Fees, lead times and forms change. Confirm with the town before you schedule. Last checked 2026-10-12.
 
-## Statewide rules
+## What are New Jersey's statewide smoke and CO certificate rules?
+
+A certificate of smoke alarm and carbon monoxide alarm compliance is needed before a one- or two-family home is sold, leased or changes occupants. It isn't transferable, and the state default fee is $45 if requested more than 10 business days ahead ($90 at 4-10 business days, $161 at fewer than 4). Towns with a local enforcing agency may set their own fees.
 
 * **When:** before a one- or two-family home or attached single-family home is sold, leased or otherwise changes occupants ([N.J.A.C. 5:70-2.3](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-3)).
 * **Who issues it:** the local enforcing agency (usually the town's fire prevention bureau, fire official or fire district). Where no local agency enforces the Uniform Fire Code, the NJ DCA Division of Fire Safety issues it, through [its online portal](https://firesolutions.dca.nj.gov/ultra-fire-home/smoke-application-create/). The agency may accept a certification *in lieu of inspection* on its own form ([DCA in-lieu form](https://www.nj.gov/dca/divisions/dfs/forms/bfce/certificationinlieu.pdf)).
@@ -29,7 +35,7 @@ Fees, lead times and forms change. Confirm with the town before you schedule. La
 
 [Full NJ home-sale checklist →](https://njhomesalechecklist.com/home-sale-checklist/) · [Hudson County lead evaluators](https://njhomesalechecklist.com/lead/hudson/)
 
-## More Hudson County towns
+## Which other Hudson County towns have smoke and CO certificate guides?
 
 [Bayonne](https://njhomesalechecklist.com/smoke-co-certificate/bayonne/) · [Hoboken](https://njhomesalechecklist.com/smoke-co-certificate/hoboken/)
 

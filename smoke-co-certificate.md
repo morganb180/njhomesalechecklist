@@ -1,5 +1,5 @@
 ---
-title: "NJ Smoke & CO Alarm Certificate for Home Sales (CSACMAPFEC) | NJ Home Sale Checklist"
+title: "NJ Smoke & CO Alarm Certificate for Home Sales (CSACMAPFEC)"
 description: "What New Jersey's smoke alarm / carbon monoxide certificate (CSACMAPFEC) requires before a sale or rental, who issues it, fees and timing."
 canonical: https://njhomesalechecklist.com/smoke-co-certificate/
 ---
@@ -12,7 +12,7 @@ canonical: https://njhomesalechecklist.com/smoke-co-certificate/
 * **State default fee** ([N.J.A.C. 5:70-2.9(d)](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-9)): $45 if requested more than 10 business days before the change of occupant, $90 at 4-10 business days, $161 at fewer than 4. Towns with a local enforcing agency may set their own fees by ordinance, and many do.
 * **Fire extinguisher:** the certificate historically also covered a portable kitchen extinguisher (hence the names CSACMAPFEC and, older, CSDCMFEC). Several municipal pages (e.g. Toms River, Sayreville) report that **as of Feb 3, 2025 a portable extinguisher is no longer required** for this certificate. confirm with town: we haven't confirmed the statewide rule text. Check your town's current checklist.
 
-## Town guides
+## Which NJ towns have smoke and CO certificate guides?
 
 [25 municipality pages](https://njhomesalechecklist.com/smoke-co-certificate/towns/) (11 with an official source found).
 
@@ -32,10 +32,10 @@ Several towns say it was dropped as of Feb 3, 2025. Confirm with your town befor
 
 Retrieved 2026-10-12. General information, not legal advice.
 
-## Find a NJ lead evaluation contractor
+## Where can I find a DCA-certified lead evaluation contractor in NJ?
 
 [All counties](https://njhomesalechecklist.com/lead/) · [Bergen County](https://njhomesalechecklist.com/lead/bergen/) · [Morris County](https://njhomesalechecklist.com/lead/morris/) · [Essex County](https://njhomesalechecklist.com/lead/essex/) · [Union County](https://njhomesalechecklist.com/lead/union/) · [Camden County](https://njhomesalechecklist.com/lead/camden/) · [Middlesex County](https://njhomesalechecklist.com/lead/middlesex/)
 
-## Smoke/CO certificate by town
+## Where can I find my town's smoke and CO certificate rules?
 
 [All town guides](https://njhomesalechecklist.com/smoke-co-certificate/towns/)

@@ -1,5 +1,5 @@
 ---
-title: "Lead Evaluation Contractors in Camden County, NJ: 12 DCA-Certified | NJ Home Sale Checklist"
+title: "Lead Evaluation Contractors in Camden County, NJ"
 description: "12 NJ DCA-certified lead evaluation contractors based in Camden County, NJ, with cert numbers, expiry dates and phone numbers."
 canonical: https://njhomesalechecklist.com/lead/camden/
 ---
@@ -8,11 +8,15 @@ canonical: https://njhomesalechecklist.com/lead/camden/
 
 # DCA-certified lead evaluation contractors in Camden County, NJ
 
+**Quick answer:** 12 contractors on the NJ DCA list of certified lead evaluation contractors give an address in Camden County, NJ, and many work statewide. They do the lead-safe certification inspections NJ requires for most pre-1978 rental units at tenant turnover. Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
+
 12 contractors on the DCA list give an address in Camden County, NJ. Many work statewide.
 
 NJ requires lead-safe certification inspections of most pre-1978 rental units at tenant turnover (P.L.2021, c.182). DCA-certified lead evaluation contractors do these inspections and other lead evaluations ([NJ DCA lead-safe certification](https://www.nj.gov/dca/codes/resources/leadpaint.shtml)). Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
 
-## Certified contractors (12)
+## Which DCA-certified lead evaluation contractors are in Camden County, NJ? (12)
+
+12 contractors on the DCA list give an address in Camden County, NJ. Many work statewide, so ask whether they cover your town.
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
@@ -150,11 +154,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluation contractors (rev. 8/11/2026).
 
-## Neighboring counties
+## Which counties border Camden County, NJ?
 
 [Atlantic County](https://njhomesalechecklist.com/lead/atlantic/) · [Burlington County](https://njhomesalechecklist.com/lead/burlington/) · [Gloucester County](https://njhomesalechecklist.com/lead/gloucester/)
 
-## Smoke/CO certificate: Camden County towns
+## Which Camden County towns have smoke and CO certificate guides?
 
 [Camden](https://njhomesalechecklist.com/smoke-co-certificate/camden/) · [Cherry Hill](https://njhomesalechecklist.com/smoke-co-certificate/cherry-hill/) · [Gloucester Township](https://njhomesalechecklist.com/smoke-co-certificate/gloucester-township/)
 

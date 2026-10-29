@@ -1,6 +1,6 @@
 ---
 title: "How We Make Money | NJ Home Sale Checklist"
-description: "How NJ Home Sale Checklist is funded today and later, and the rules for labeled paid placements."
+description: "How NJ Home Sale Checklist is funded today and in future, and the rules for clearly labelled paid placements next to the full free list of certified pros."
 canonical: https://njhomesalechecklist.com/how-we-make-money/
 ---
 

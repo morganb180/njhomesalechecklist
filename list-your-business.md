@@ -1,5 +1,5 @@
 ---
-title: "List, Claim, Correct or Remove a Listing | NJ Home Sale Checklist"
+title: "List, Claim, Correct or Remove a Listing"
 description: "Professionals can claim, correct, add or remove a NJ Home Sale Checklist listing. Every request is checked against the official record."
 canonical: https://njhomesalechecklist.com/list-your-business/
 ---

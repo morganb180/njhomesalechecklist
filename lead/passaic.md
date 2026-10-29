@@ -1,5 +1,5 @@
 ---
-title: "Lead Evaluation Contractors in Passaic County, NJ: 8 DCA-Certified | NJ Home Sale Checklist"
+title: "Lead Evaluation Contractors in Passaic County, NJ"
 description: "8 NJ DCA-certified lead evaluation contractors based in Passaic County, NJ, with cert numbers, expiry dates and phone numbers."
 canonical: https://njhomesalechecklist.com/lead/passaic/
 ---
@@ -8,11 +8,15 @@ canonical: https://njhomesalechecklist.com/lead/passaic/
 
 # DCA-certified lead evaluation contractors in Passaic County, NJ
 
+**Quick answer:** 8 contractors on the NJ DCA list of certified lead evaluation contractors give an address in Passaic County, NJ, and many work statewide. They do the lead-safe certification inspections NJ requires for most pre-1978 rental units at tenant turnover. Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
+
 8 contractors on the DCA list give an address in Passaic County, NJ. Many work statewide.
 
 NJ requires lead-safe certification inspections of most pre-1978 rental units at tenant turnover (P.L.2021, c.182). DCA-certified lead evaluation contractors do these inspections and other lead evaluations ([NJ DCA lead-safe certification](https://www.nj.gov/dca/codes/resources/leadpaint.shtml)). Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
 
-## Certified contractors (8)
+## Which DCA-certified lead evaluation contractors are in Passaic County, NJ? (8)
+
+8 contractors on the DCA list give an address in Passaic County, NJ. Many work statewide, so ask whether they cover your town.
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
@@ -106,11 +110,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluation contractors (rev. 8/11/2026).
 
-## Neighboring counties
+## Which counties border Passaic County, NJ?
 
 [Bergen County](https://njhomesalechecklist.com/lead/bergen/) · [Essex County](https://njhomesalechecklist.com/lead/essex/) · [Morris County](https://njhomesalechecklist.com/lead/morris/) · [Sussex County](https://njhomesalechecklist.com/lead/sussex/)
 
-## Smoke/CO certificate: Passaic County towns
+## Which Passaic County towns have smoke and CO certificate guides?
 
 [Clifton](https://njhomesalechecklist.com/smoke-co-certificate/clifton/) · [Passaic](https://njhomesalechecklist.com/smoke-co-certificate/passaic/) · [Paterson](https://njhomesalechecklist.com/smoke-co-certificate/paterson/)
 

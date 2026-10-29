@@ -4,7 +4,9 @@ description: "New Jersey home sale compliance in one place: smoke/CO certificate
 canonical: https://njhomesalechecklist.com/
 ---
 
-# New Jersey home sale checklist and certified pros
+# NJ Home Sale Checklist: New Jersey home sale inspections, certificates and certified pros
+
+NJ Home Sale Checklist is a free guide to the inspections and certificates involved in selling or buying a New Jersey home: the smoke/CO alarm certificate, well testing, radon, oil tanks and lead, with a directory of DCA-certified lead evaluation contractors.
 
 181 DCA-certified lead evaluation contractors and 25 town smoke/CO certificate guides (11 with official sources). For certified well labs, radon businesses and oil-tank firms, each guide links NJDEP's official lookup.
 

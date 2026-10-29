@@ -1,6 +1,6 @@
 ---
 title: "NJ Smoke & CO Certificate by Town | NJ Home Sale Checklist"
-description: "Municipality guides to who issues New Jersey's smoke/CO alarm certificate for home sales."
+description: "Town-by-town guides to the NJ smoke and carbon monoxide alarm certificate for home sales: who issues it, fees and timing, with official sources where found."
 canonical: https://njhomesalechecklist.com/smoke-co-certificate/towns/
 ---
 

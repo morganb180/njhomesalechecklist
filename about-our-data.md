@@ -1,6 +1,6 @@
 ---
 title: "About Our Data | NJ Home Sale Checklist"
-description: "Where the listings come from, the source terms, and how the data was cleaned."
+description: "Where NJ Home Sale Checklist information comes from: the NJ DCA lead evaluation contractor list, town smoke/CO sources, NJDEP lookups and retrieval dates."
 canonical: https://njhomesalechecklist.com/about-our-data/
 ---
 

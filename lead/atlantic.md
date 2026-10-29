@@ -1,5 +1,5 @@
 ---
-title: "Lead Evaluation Contractors in Atlantic County, NJ: 2 DCA-Certified | NJ Home Sale Checklist"
+title: "Lead Evaluation Contractors in Atlantic County, NJ"
 description: "2 NJ DCA-certified lead evaluation contractors based in Atlantic County, NJ, with cert numbers, expiry dates and phone numbers."
 canonical: https://njhomesalechecklist.com/lead/atlantic/
 ---
@@ -8,11 +8,15 @@ canonical: https://njhomesalechecklist.com/lead/atlantic/
 
 # DCA-certified lead evaluation contractors in Atlantic County, NJ
 
+**Quick answer:** 2 contractors on the NJ DCA list of certified lead evaluation contractors give an address in Atlantic County, NJ, and many work statewide. They do the lead-safe certification inspections NJ requires for most pre-1978 rental units at tenant turnover. Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
+
 2 contractors on the DCA list give an address in Atlantic County, NJ. Many work statewide.
 
 NJ requires lead-safe certification inspections of most pre-1978 rental units at tenant turnover (P.L.2021, c.182). DCA-certified lead evaluation contractors do these inspections and other lead evaluations ([NJ DCA lead-safe certification](https://www.nj.gov/dca/codes/resources/leadpaint.shtml)). Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
 
-## Certified contractors (2)
+## Which DCA-certified lead evaluation contractors are in Atlantic County, NJ? (2)
+
+2 contractors on the DCA list give an address in Atlantic County, NJ. Many work statewide, so ask whether they cover your town.
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
@@ -40,7 +44,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluation contractors (rev. 8/11/2026).
 
-## Neighboring counties
+## Which counties border Atlantic County, NJ?
 
 [Burlington County](https://njhomesalechecklist.com/lead/burlington/) · [Camden County](https://njhomesalechecklist.com/lead/camden/) · [Cape May County](https://njhomesalechecklist.com/lead/cape-may/) · [Cumberland County](https://njhomesalechecklist.com/lead/cumberland/) · [Gloucester County](https://njhomesalechecklist.com/lead/gloucester/) · [Ocean County](https://njhomesalechecklist.com/lead/ocean/)
 

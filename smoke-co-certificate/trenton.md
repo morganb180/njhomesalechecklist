@@ -1,5 +1,5 @@
 ---
-title: "Smoke & CO Certificate in Trenton, NJ: Who Issues It, Fees & Timing | NJ Home Sale Checklist"
+title: "Smoke & CO Certificate in Trenton, NJ: Fees & Timing"
 description: "Who issues the smoke alarm / CO certificate (CSACMAPFEC) for a home sale in Trenton, Mercer County, NJ, with the state rules, fees and timing."
 canonical: https://njhomesalechecklist.com/smoke-co-certificate/trenton/
 ---
@@ -8,13 +8,19 @@ canonical: https://njhomesalechecklist.com/smoke-co-certificate/trenton/
 
 # Smoke and CO alarm certificate in Trenton, NJ
 
+**Quick answer:** Selling or renting out a one- or two-family home in Trenton (Mercer County) needs a certificate of smoke alarm and carbon monoxide alarm compliance before the new occupant moves in. We don't have a town-specific source for Trenton yet. In most NJ municipalities the local fire prevention bureau or fire official issues it; where there is no local enforcing agency, the NJ DCA Division of Fire Safety does. The state default fee is $45 if requested more than 10 business days ahead; towns may set their own fees, so confirm the fee and lead time with the town.
+
 Selling or renting out a one- or two-family home in Trenton (Mercer County)? You need a certificate of smoke alarm and carbon monoxide alarm compliance before the new occupant moves in.
 
-## Trenton: who issues it confirm with town
+## Who issues the smoke and CO certificate in Trenton, NJ? (confirm with town)
+
+We don't have a town-specific source for Trenton yet. In most NJ municipalities the local fire prevention bureau or fire official issues it; where there is no local enforcing agency, the NJ DCA Division of Fire Safety does.
 
 We don't have a town-specific page on file for Trenton yet (last checked 2026-10-12). In most NJ municipalities the local fire prevention bureau or fire official issues it. If Trenton has no local enforcing agency, the NJ DCA Division of Fire Safety does ([DCA portal](https://firesolutions.dca.nj.gov/ultra-fire-home/smoke-application-create/)). Call the Trenton municipal clerk or fire prevention office to confirm the agency, fee and lead time.
 
-## Statewide rules
+## What are New Jersey's statewide smoke and CO certificate rules?
+
+A certificate of smoke alarm and carbon monoxide alarm compliance is needed before a one- or two-family home is sold, leased or changes occupants. It isn't transferable, and the state default fee is $45 if requested more than 10 business days ahead ($90 at 4-10 business days, $161 at fewer than 4). Towns with a local enforcing agency may set their own fees.
 
 * **When:** before a one- or two-family home or attached single-family home is sold, leased or otherwise changes occupants ([N.J.A.C. 5:70-2.3](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-3)).
 * **Who issues it:** the local enforcing agency (usually the town's fire prevention bureau, fire official or fire district). Where no local agency enforces the Uniform Fire Code, the NJ DCA Division of Fire Safety issues it, through [its online portal](https://firesolutions.dca.nj.gov/ultra-fire-home/smoke-application-create/). The agency may accept a certification *in lieu of inspection* on its own form ([DCA in-lieu form](https://www.nj.gov/dca/divisions/dfs/forms/bfce/certificationinlieu.pdf)).
@@ -24,7 +30,7 @@ We don't have a town-specific page on file for Trenton yet (last checked 2026-10
 
 [Full NJ home-sale checklist →](https://njhomesalechecklist.com/home-sale-checklist/) · [Mercer County lead evaluators](https://njhomesalechecklist.com/lead/mercer/)
 
-## More Mercer County towns
+## Which other Mercer County towns have smoke and CO certificate guides?
 
 [Hamilton (Mercer)](https://njhomesalechecklist.com/smoke-co-certificate/hamilton-mercer/) · [Princeton](https://njhomesalechecklist.com/smoke-co-certificate/princeton/)
 

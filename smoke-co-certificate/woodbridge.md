@@ -1,5 +1,5 @@
 ---
-title: "Smoke & CO Certificate in Woodbridge, NJ: Who Issues It, Fees & Timing | NJ Home Sale Checklist"
+title: "Smoke & CO Certificate in Woodbridge, NJ: Fees & Timing"
 description: "Who issues the smoke alarm / CO certificate (CSACMAPFEC) for a home sale in Woodbridge, Middlesex County, NJ, with the state rules, fees and timing."
 canonical: https://njhomesalechecklist.com/smoke-co-certificate/woodbridge/
 ---
@@ -8,9 +8,13 @@ canonical: https://njhomesalechecklist.com/smoke-co-certificate/woodbridge/
 
 # Smoke and CO alarm certificate in Woodbridge, NJ
 
+**Quick answer:** Selling or renting out a one- or two-family home in Woodbridge (Middlesex County) needs a certificate of smoke alarm and carbon monoxide alarm compliance before the new occupant moves in. In Woodbridge, the issuing agency is Woodbridge Township (Certificate of Compliance inspection). The state default fee is $45 if requested more than 10 business days ahead; towns may set their own fees, so confirm the fee and lead time with the town.
+
 Selling or renting out a one- or two-family home in Woodbridge (Middlesex County)? You need a certificate of smoke alarm and carbon monoxide alarm compliance before the new occupant moves in.
 
-## Woodbridge: who issues it official source
+## Who issues the smoke and CO certificate in Woodbridge, NJ? (official source)
+
+In Woodbridge, the issuing agency is Woodbridge Township (Certificate of Compliance inspection).
 
 **Issuing agency:** Woodbridge Township (Certificate of Compliance inspection).  
 **Official source:** <https://www.twp.woodbridge.nj.us/DocumentCenter/View/15497/Instructions-for-Residential-Resale-and-Rentals> (found 2026-10-12).
@@ -19,7 +23,9 @@ Township instructions for residential resale and rentals. Search summaries say t
 
 Fees, lead times and forms change. Confirm with the town before you schedule. Last checked 2026-10-12.
 
-## Statewide rules
+## What are New Jersey's statewide smoke and CO certificate rules?
+
+A certificate of smoke alarm and carbon monoxide alarm compliance is needed before a one- or two-family home is sold, leased or changes occupants. It isn't transferable, and the state default fee is $45 if requested more than 10 business days ahead ($90 at 4-10 business days, $161 at fewer than 4). Towns with a local enforcing agency may set their own fees.
 
 * **When:** before a one- or two-family home or attached single-family home is sold, leased or otherwise changes occupants ([N.J.A.C. 5:70-2.3](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-3)).
 * **Who issues it:** the local enforcing agency (usually the town's fire prevention bureau, fire official or fire district). Where no local agency enforces the Uniform Fire Code, the NJ DCA Division of Fire Safety issues it, through [its online portal](https://firesolutions.dca.nj.gov/ultra-fire-home/smoke-application-create/). The agency may accept a certification *in lieu of inspection* on its own form ([DCA in-lieu form](https://www.nj.gov/dca/divisions/dfs/forms/bfce/certificationinlieu.pdf)).
@@ -29,7 +35,7 @@ Fees, lead times and forms change. Confirm with the town before you schedule. La
 
 [Full NJ home-sale checklist →](https://njhomesalechecklist.com/home-sale-checklist/) · [Middlesex County lead evaluators](https://njhomesalechecklist.com/lead/middlesex/)
 
-## More Middlesex County towns
+## Which other Middlesex County towns have smoke and CO certificate guides?
 
 [Edison](https://njhomesalechecklist.com/smoke-co-certificate/edison/) · [Old Bridge](https://njhomesalechecklist.com/smoke-co-certificate/old-bridge/) · [Piscataway](https://njhomesalechecklist.com/smoke-co-certificate/piscataway/)
 

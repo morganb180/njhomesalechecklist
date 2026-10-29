@@ -1,6 +1,6 @@
 ---
 title: "About NJ Home Sale Checklist | NJ Home Sale Checklist"
-description: "What NJ Home Sale Checklist is, who it's for, where its information comes from and how it's funded."
+description: "What NJ Home Sale Checklist is, who it is for, who operates it, where its New Jersey information comes from and how the free guide is funded."
 canonical: https://njhomesalechecklist.com/about/
 ---
 
@@ -19,6 +19,10 @@ See [about our data](https://njhomesalechecklist.com/about-our-data/).
 * Listings are rebuilt from the official source files on each refresh; every listing shows its source and retrieval date.
 * Rules and cost guides link the statute, regulation, agency page or official fee schedule they rely on. Where we couldn't confirm something from an official source, we say so or leave it out.
 * Nothing here is legal advice. Requirements change, so confirm with the agency or town before you act.
+
+## Who operates NJ Home Sale Checklist
+
+NJ Home Sale Checklist (njhomesalechecklist.com) is operated by NJ Home Sale Checklist. Contact us through the [contact page](https://njhomesalechecklist.com/contact/).
 
 ## Independence
 

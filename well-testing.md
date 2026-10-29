@@ -1,5 +1,5 @@
 ---
-title: "NJ Private Well Testing Act (PWTA) at Home Sale | NJ Home Sale Checklist"
+title: "NJ Private Well Testing Act (PWTA) at Home Sale"
 description: "New Jersey requires private well water testing before a home sale closes. What the Private Well Testing Act requires and how to find a certified lab."
 canonical: https://njhomesalechecklist.com/well-testing/
 ---
@@ -13,10 +13,12 @@ canonical: https://njhomesalechecklist.com/well-testing/
 
 We don't list certified drinking-water / PWTA lab yet. NJDEP publishes the official list through its own lookup tool: <https://dep.nj.gov/dsr/oqa/pwta/>. Providers can [ask to be listed](https://njhomesalechecklist.com/list-your-business/); we would verify against the official record.
 
-## Find a NJ lead evaluation contractor
+## Where can I find a DCA-certified lead evaluation contractor in NJ?
+
+Browse NJ DCA-certified lead evaluation contractors by county below, or see the full county list.
 
 [All counties](https://njhomesalechecklist.com/lead/) · [Bergen County](https://njhomesalechecklist.com/lead/bergen/) · [Morris County](https://njhomesalechecklist.com/lead/morris/) · [Essex County](https://njhomesalechecklist.com/lead/essex/) · [Union County](https://njhomesalechecklist.com/lead/union/) · [Camden County](https://njhomesalechecklist.com/lead/camden/) · [Middlesex County](https://njhomesalechecklist.com/lead/middlesex/)
 
-## Smoke/CO certificate by town
+## Where can I find my town's smoke and CO certificate rules?
 
 [All town guides](https://njhomesalechecklist.com/smoke-co-certificate/towns/)

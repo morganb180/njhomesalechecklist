@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State NJ Lead Evaluation Contractors | NJ Home Sale Checklist"
+title: "Out-of-State NJ Lead Evaluation Contractors"
 description: "24 NJ DCA-certified lead evaluation contractors based outside New Jersey, with cert numbers, expiry dates and phone numbers."
 canonical: https://njhomesalechecklist.com/lead/out-of-state/
 ---
@@ -8,11 +8,15 @@ canonical: https://njhomesalechecklist.com/lead/out-of-state/
 
 # DCA-certified lead evaluation contractors based outside NJ
 
+**Quick answer:** 24 contractors on the NJ DCA list of certified lead evaluation contractors give an address outside New Jersey, and many work statewide. They do the lead-safe certification inspections NJ requires for most pre-1978 rental units at tenant turnover. Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
+
 24 contractors on the DCA list give an address outside New Jersey. Many work statewide.
 
 NJ requires lead-safe certification inspections of most pre-1978 rental units at tenant turnover (P.L.2021, c.182). DCA-certified lead evaluation contractors do these inspections and other lead evaluations ([NJ DCA lead-safe certification](https://www.nj.gov/dca/codes/resources/leadpaint.shtml)). Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
 
-## Certified contractors (24)
+## Which DCA-certified lead evaluation contractors are based outside NJ? (24)
+
+24 contractors on the DCA list give an address outside New Jersey. Many work statewide, so ask whether they cover your town.
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 

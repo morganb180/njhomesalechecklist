@@ -1,6 +1,6 @@
 ---
-title: "NJ Certified Lead Evaluation Contractors by County | NJ Home Sale Checklist"
-description: "Browse NJ DCA-certified lead evaluation contractors (lead-safe certification inspections) by county."
+title: "NJ Certified Lead Evaluation Contractors by County"
+description: "Browse NJ DCA-certified lead evaluation contractors by county, with certification numbers, expiry dates and phone numbers from the official DCA list."
 canonical: https://njhomesalechecklist.com/lead/
 ---
 

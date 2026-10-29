@@ -1,6 +1,6 @@
 ---
 title: "Radon Testing in a NJ Home Sale | NJ Home Sale Checklist"
-description: "Radon testing during a New Jersey home sale: who can test, certified businesses, and disclosure."
+description: "Radon testing during a New Jersey home sale: no test is required, but testers must be NJDEP-certified. Who can test, DIY kits, and the disclosure rule."
 canonical: https://njhomesalechecklist.com/radon/
 ---
 
@@ -13,10 +13,12 @@ canonical: https://njhomesalechecklist.com/radon/
 
 We don't list radon business yet. NJDEP publishes the official list through its own lookup tool: <https://dep.nj.gov/rpp/radon/radon_bus/>. Providers can [ask to be listed](https://njhomesalechecklist.com/list-your-business/); we would verify against the official record.
 
-## Find a NJ lead evaluation contractor
+## Where can I find a DCA-certified lead evaluation contractor in NJ?
+
+Browse NJ DCA-certified lead evaluation contractors by county below, or see the full county list.
 
 [All counties](https://njhomesalechecklist.com/lead/) · [Bergen County](https://njhomesalechecklist.com/lead/bergen/) · [Morris County](https://njhomesalechecklist.com/lead/morris/) · [Essex County](https://njhomesalechecklist.com/lead/essex/) · [Union County](https://njhomesalechecklist.com/lead/union/) · [Camden County](https://njhomesalechecklist.com/lead/camden/) · [Middlesex County](https://njhomesalechecklist.com/lead/middlesex/)
 
-## Smoke/CO certificate by town
+## Where can I find my town's smoke and CO certificate rules?
 
 [All town guides](https://njhomesalechecklist.com/smoke-co-certificate/towns/)

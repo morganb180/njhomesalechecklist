@@ -1,5 +1,5 @@
 ---
-title: "Lead Evaluation Contractors in Hudson County, NJ: 2 DCA-Certified | NJ Home Sale Checklist"
+title: "Lead Evaluation Contractors in Hudson County, NJ"
 description: "2 NJ DCA-certified lead evaluation contractors based in Hudson County, NJ, with cert numbers, expiry dates and phone numbers."
 canonical: https://njhomesalechecklist.com/lead/hudson/
 ---
@@ -8,11 +8,15 @@ canonical: https://njhomesalechecklist.com/lead/hudson/
 
 # DCA-certified lead evaluation contractors in Hudson County, NJ
 
+**Quick answer:** 2 contractors on the NJ DCA list of certified lead evaluation contractors give an address in Hudson County, NJ, and many work statewide. They do the lead-safe certification inspections NJ requires for most pre-1978 rental units at tenant turnover. Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
+
 2 contractors on the DCA list give an address in Hudson County, NJ. Many work statewide.
 
 NJ requires lead-safe certification inspections of most pre-1978 rental units at tenant turnover (P.L.2021, c.182). DCA-certified lead evaluation contractors do these inspections and other lead evaluations ([NJ DCA lead-safe certification](https://www.nj.gov/dca/codes/resources/leadpaint.shtml)). Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
 
-## Certified contractors (2)
+## Which DCA-certified lead evaluation contractors are in Hudson County, NJ? (2)
+
+2 contractors on the DCA list give an address in Hudson County, NJ. Many work statewide, so ask whether they cover your town.
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
@@ -40,11 +44,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluation contractors (rev. 8/11/2026).
 
-## Neighboring counties
+## Which counties border Hudson County, NJ?
 
 [Bergen County](https://njhomesalechecklist.com/lead/bergen/) · [Essex County](https://njhomesalechecklist.com/lead/essex/) · [Union County](https://njhomesalechecklist.com/lead/union/)
 
-## Smoke/CO certificate: Hudson County towns
+## Which Hudson County towns have smoke and CO certificate guides?
 
 [Bayonne](https://njhomesalechecklist.com/smoke-co-certificate/bayonne/) · [Hoboken](https://njhomesalechecklist.com/smoke-co-certificate/hoboken/) · [Jersey City](https://njhomesalechecklist.com/smoke-co-certificate/jersey-city/)
 

@@ -1,5 +1,5 @@
 ---
-title: "Lead Evaluation Contractors in Ocean County, NJ: 10 DCA-Certified | NJ Home Sale Checklist"
+title: "Lead Evaluation Contractors in Ocean County, NJ"
 description: "10 NJ DCA-certified lead evaluation contractors based in Ocean County, NJ, with cert numbers, expiry dates and phone numbers."
 canonical: https://njhomesalechecklist.com/lead/ocean/
 ---
@@ -8,11 +8,15 @@ canonical: https://njhomesalechecklist.com/lead/ocean/
 
 # DCA-certified lead evaluation contractors in Ocean County, NJ
 
+**Quick answer:** 10 contractors on the NJ DCA list of certified lead evaluation contractors give an address in Ocean County, NJ, and many work statewide. They do the lead-safe certification inspections NJ requires for most pre-1978 rental units at tenant turnover. Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
+
 10 contractors on the DCA list give an address in Ocean County, NJ. Many work statewide.
 
 NJ requires lead-safe certification inspections of most pre-1978 rental units at tenant turnover (P.L.2021, c.182). DCA-certified lead evaluation contractors do these inspections and other lead evaluations ([NJ DCA lead-safe certification](https://www.nj.gov/dca/codes/resources/leadpaint.shtml)). Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
 
-## Certified contractors (10)
+## Which DCA-certified lead evaluation contractors are in Ocean County, NJ? (10)
+
+10 contractors on the DCA list give an address in Ocean County, NJ. Many work statewide, so ask whether they cover your town.
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
@@ -128,11 +132,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluation contractors (rev. 8/11/2026).
 
-## Neighboring counties
+## Which counties border Ocean County, NJ?
 
 [Atlantic County](https://njhomesalechecklist.com/lead/atlantic/) · [Burlington County](https://njhomesalechecklist.com/lead/burlington/) · [Monmouth County](https://njhomesalechecklist.com/lead/monmouth/)
 
-## Smoke/CO certificate: Ocean County towns
+## Which Ocean County towns have smoke and CO certificate guides?
 
 [Brick](https://njhomesalechecklist.com/smoke-co-certificate/brick/) · [Lakewood](https://njhomesalechecklist.com/smoke-co-certificate/lakewood/) · [Toms River](https://njhomesalechecklist.com/smoke-co-certificate/toms-river/)
 

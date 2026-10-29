@@ -1,5 +1,5 @@
 ---
-title: "New Jersey Home Sale Checklist: Inspections & Certificates | NJ Home Sale Checklist"
+title: "New Jersey Home Sale Checklist: Inspections & Certificates"
 description: "Checklist of the certificates and inspections in a New Jersey home sale: smoke/CO certificate, well test, town CO/CCO, radon, oil tank, lead."
 canonical: https://njhomesalechecklist.com/home-sale-checklist/
 ---
@@ -27,10 +27,10 @@ Not by state law. Both are common buyer inspections.
 
 General information, not legal advice. Retrieved 2026-10-12.
 
-## Find a NJ lead evaluation contractor
+## Where can I find a DCA-certified lead evaluation contractor in NJ?
 
 [All counties](https://njhomesalechecklist.com/lead/) · [Bergen County](https://njhomesalechecklist.com/lead/bergen/) · [Morris County](https://njhomesalechecklist.com/lead/morris/) · [Essex County](https://njhomesalechecklist.com/lead/essex/) · [Union County](https://njhomesalechecklist.com/lead/union/) · [Camden County](https://njhomesalechecklist.com/lead/camden/) · [Middlesex County](https://njhomesalechecklist.com/lead/middlesex/)
 
-## Smoke/CO certificate by town
+## Where can I find my town's smoke and CO certificate rules?
 
 [All town guides](https://njhomesalechecklist.com/smoke-co-certificate/towns/)
