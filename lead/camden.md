@@ -26,6 +26,12 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ☎ [(856) 262-2335](tel:8562622335)  
 Contact: Jennifer L. Puccio
 
+☎ Google listing: [(866) 711-0201](tel:8667110201)  
+🌐 [leaenvironmental.com](http://www.leaenvironmental.com/)  
+✉ [lea@leaenvironmental.com](mailto:lea@leaenvironmental.com)  
+Google rating 3.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2022354704025418225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [leaenvironmental.com](https://leaenvironmental.com/), retrieved 2026-10-30.
+
 DCA cert #00626, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00626)
 
@@ -36,6 +42,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 2060 Fairfax Ave, Cherry Hill, NJ 08002  
 ☎ [(215) 284-0086](tel:2152840086)  
 Contact: William P. O'Donnell
+
+🌐 [bayhillenvironmental.com](http://www.bayhillenvironmental.com/)  
+✉ [info@bayhillenvironmental.com](mailto:info@bayhillenvironmental.com)  
+Google rating 4.9 (204 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6745606158249488142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [bayhillenvironmental.com](https://bayhillenvironmental.com/), retrieved 2026-10-30.
 
 DCA cert #00432, expires 2027-01-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00432)
@@ -59,6 +70,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(856) 858-9509](tel:8568589509)  
 Contact: David C. Sulock
 
+🌐 [currenenvironmental.com](http://www.currenenvironmental.com/)  
+✉ [info@currenenvironmental.com](mailto:info@currenenvironmental.com)  
+Google rating 4.4 (74 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14421710792917385872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [currenenvironmental.com](https://www.currenenvironmental.com/contact-us), retrieved 2026-10-30.
+
 DCA cert #00725, expires 2026-10-31 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00725)
 
@@ -69,6 +85,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 2059 Springdale Rd, Cherry Hill, NJ 08003  
 ☎ [(856) 795-9595](tel:8567959595)  
 Contact: Edward Vernick
+
+🌐 [rve.com](http://www.rve.com/)  
+✉ [info@rve.com](mailto:info@rve.com)  
+Google rating 2.5 (11 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17373016153387327599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [rve.com](https://www.rve.com/contact), retrieved 2026-10-30.
 
 DCA cert #00902, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00902)
@@ -103,6 +124,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(856) 547-0505](tel:8565470505)  
 Contact: Jeremy Humble
 
+🌐 [pennoni.com](http://www.pennoni.com/)  
+✉ [info@pennoni.com](mailto:info@pennoni.com)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9564254071854981770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [pennoni.com](https://www.pennoni.com/contact/), retrieved 2026-10-30.
+
 DCA cert #00239, expires 2028-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00239)
 
@@ -113,6 +139,12 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 5434 King Ave, Suite 101, Pennsauken, NJ 08109  
 ☎ [(856) 616-9516](tel:8566169516)  
 Contact: Jay Murray
+
+☎ Google listing: [(888) 306-4545](tel:8883064545)  
+🌐 [editesting.com](http://www.editesting.com/)  
+✉ [contact@editesting.com](mailto:contact@editesting.com)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17952083698753365090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [editesting.com](https://editesting.com/), retrieved 2026-10-30.
 
 DCA cert #00552, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00552)
@@ -146,6 +178,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 1012 Industrial Dr, West Berlin, NJ 08091  
 ☎ [(856) 809-1202](tel:8568091202)  
 Contact: Joseph Scott Horn
+
+🌐 [acerassociates.com](https://acerassociates.com/)  
+✉ [info@acerassociates.com](mailto:info@acerassociates.com)  
+Google rating 4.7 (16 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12544069866650799392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [acerassociates.com](https://www.acerassociates.com/), retrieved 2026-10-30.
 
 DCA cert #00493, expires 2027-09-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00493)

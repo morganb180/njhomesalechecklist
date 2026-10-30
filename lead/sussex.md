@@ -26,6 +26,11 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ☎ [(973) 583-8500](tel:9735838500)  
 Contact: Andrew Scott Higgins
 
+☎ Google listing: [(973) 764-2276](tel:9737642276)  
+🌐 [absenvironmentalgroupllc.com](https://www.absenvironmentalgroupllc.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16308166266188459460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00812, expires 2028-06-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00812)
 
@@ -47,6 +52,9 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 655 W Shore Trail, Sparta, NJ 07871  
 ☎ [(973) 729-5649](tel:9737295649)  
 Contact: William S Kerbel
+
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6154262290576524795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00388, expires 2027-07-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00388)

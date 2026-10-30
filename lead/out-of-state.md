@@ -26,6 +26,11 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ☎ [(215) 244-1300](tel:2152441300)  
 Contact: Michael Sanders
 
+🌐 [criterionlabs.com](http://www.criterionlabs.com/)  
+✉ [aweltz@criterionlabs.com](mailto:aweltz@criterionlabs.com)  
+Google rating 4.6 (48 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4083261442545187239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [criterionlabs.com](https://www.criterionlabs.com/about/), retrieved 2026-10-30.
+
 DCA cert #00103, expires 2028-07-15  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00103)
 
@@ -36,6 +41,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 3717 Latrobe Dr, Unit 760, Charlotte, NC 28211  
 ☎ [(704) 376-3594](tel:7043763594)  
 Contact: Kathryn Hubicki
+
+🌐 [ose-llc.com](http://www.ose-llc.com/)  
+Google rating 4.3 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6065058703656277606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00783, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00783)
@@ -59,6 +68,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(631) 232-2600](tel:6312322600)  
 Contact: Michael Roux
 
+🌐 [rouxinc.com](https://www.rouxinc.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14603394219913671519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00792, expires 2028-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00792)
 
@@ -70,6 +83,12 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(816) 412-1773](tel:8164121773)  
 Contact: Jeffrey M. Mitchell
 
+☎ Google listing: [(816) 412-1741](tel:8164121741)  
+🌐 [tetratech.com](http://www.tetratech.com/)  
+✉ [info@tetratech.com](mailto:info@tetratech.com)  
+Google rating 4.3 (4 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8635869890516599017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [tetratech.com](https://www.tetratech.com/contact/), retrieved 2026-10-30.
+
 DCA cert #00858, expires 2027-04-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00858)
 
@@ -80,6 +99,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 28 N Penell Rd, Media, PA 19063  
 ☎ [(610) 891-0114](tel:6108910114)  
 Contact: Eric Sutherland
+
+🌐 [aetinc.biz](http://www.aetinc.biz/)  
+Google rating 2.3 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12136144303513432191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00836, expires 2026-10-31 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00836)
@@ -114,6 +137,12 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(212) 675-5544](tel:2126755544)  
 Contact: Joshua P. Sarett
 
+☎ Google listing: [(888) 466-3620](tel:8884663620)  
+🌐 [alcenvironmental.com](http://www.alcenvironmental.com/)  
+✉ [info@alcenvironmental.com](mailto:info@alcenvironmental.com)  
+Google rating 3.9 (9 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8333152667397436985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [alcenvironmental.com](https://alcenvironmental.com/), retrieved 2026-10-30.
+
 DCA cert #00497, expires 2027-10-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00497)
 
@@ -125,6 +154,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(212) 221-7822](tel:2122217822)  
 Contact: Edward Gerdts
 
+🌐 [trccompanies.com](https://www.trccompanies.com/offices/new-york-ny-10018/)  
+✉ [trcpoweracademy@trccompanies.com](mailto:trcpoweracademy@trccompanies.com)  
+Google rating 3.7 (7 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4653359915929506200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [trccompanies.com](https://www.trccompanies.com/services/electrical-power/power-academy/contact/), retrieved 2026-10-30.
+
 DCA cert #00266, expires 2028-04-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00266)
 
@@ -135,6 +169,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 One Penn Plaza, 4th Flr, New York, NY 10119  
 ☎ [(407) 587-7848](tel:4075877848)  
 Contact: Amanda Lewis
+
+☎ Google listing: [(212) 465-5000](tel:2124655000)  
+🌐 [wsp.com](https://www.wsp.com/)  
+Google rating 4.6 (37 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7904206036965787698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00791, expires 2028-01-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00791)
@@ -169,6 +208,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(215) 640-1000](tel:2156401000)  
 Contact: Frank Westfall
 
+🌐 [esis.com](https://www.esis.com/esis-en/)  
+✉ [info@esis.com](mailto:info@esis.com)  
+Google rating 1.1 (87 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17181967877613214027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [esis.com](https://www.esis.com/esis-en/), retrieved 2026-10-30.
+
 DCA cert #00503, expires 2027-08-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00503)
 
@@ -202,6 +246,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(844) 586-4498](tel:8445864498)  
 Contact: Sir James Perry
 
+🌐 [sbpsolutionsllc.net](http://sbpsolutionsllc.net/)  
+✉ [leadsafe@sbpsolutionsllc.net](mailto:leadsafe@sbpsolutionsllc.net)  
+Google rating 4.8 (53 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6743060521770435399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [sbpsolutionsllc.net](https://sbpsolutionsllc.net/), retrieved 2026-10-30.
+
 DCA cert #00841, expires 2026-10-31 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00841)
 
@@ -212,6 +261,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 228 Moore St, Philadelphia, PA 19148  
 ☎ [(215) 755-2305](tel:2157552305)  
 Contact: Eric Belfi
+
+🌐 [gosynertech.com](http://www.gosynertech.com/)  
+✉ [info@gosynertech.com](mailto:info@gosynertech.com)  
+Google rating 5.0 (24 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10903705666835811004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [gosynertech.com](https://www.gosynertech.com/contact), retrieved 2026-10-30.
 
 DCA cert #00545, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00545)
@@ -224,6 +278,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(215) 365-5810](tel:2153655810)  
 Contact: Tracy L. Smith
 
+🌐 [usaemi.com](http://www.usaemi.com/)  
+Google rating 4.5 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17612186238394525791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00232, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00232)
 
@@ -234,6 +292,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 15 Lincoln Ave, Somers, NY 10589  
 ☎ [(914) 297-8335](tel:9142978335)  
 Contact: Justin Joe
+
+🌐 [askbnf.com](https://www.askbnf.com/westchester-county-ny)  
+✉ [support@askbnf.com](mailto:support@askbnf.com)  
+Google rating 5.0 (105 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18215534998326756914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [askbnf.com](https://www.askbnf.com/westchester-county-ny), retrieved 2026-10-30.
 
 DCA cert #00844, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00844)
@@ -256,6 +319,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 81 Roosevelt Ave, Staten Island, NY 10314  
 ☎ [(212) 203-7523](tel:2122037523)  
 Contact: Yuseph Sleem
+
+🌐 [allyenv.com](http://www.allyenv.com/)  
+✉ [questions@allyenv.com](mailto:questions@allyenv.com)  
+Google rating 5.0 (12 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8147357000702031340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [allyenv.com](https://allyenv.com/), retrieved 2026-10-30.
 
 DCA cert #00755, expires 2027-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00755)

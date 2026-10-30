@@ -26,6 +26,10 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ☎ [(609) 386-8800](tel:6093868800)  
 Contact: John Lutz
 
+🌐 [oneatlas.com](https://www.oneatlas.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8319589006810624087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00028, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00028)
 
@@ -70,6 +74,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(732) 741-1110](tel:7327411110)  
 Contact: Scott Smith
 
+🌐 [envirosureinc.com](http://envirosureinc.com/)  
+✉ [info@envirosureinc.com](mailto:info@envirosureinc.com)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7377519188263434748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [envirosureinc.com](https://envirosureinc.com/), retrieved 2026-10-30.
+
 DCA cert #00868, expires 2027-04-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00868)
 
@@ -92,6 +101,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(856) 595-0888](tel:8565950888)  
 Contact: Tae Son
 
+🌐 [tessenvironmentalservice.com](https://tessenvironmentalservice.com/)  
+Google rating 5.0 (30 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16789626485878518883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00789, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00789)
 
@@ -102,6 +115,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 1253 N Church St, Moorestown, NJ 08057  
 ☎ [(856) 840-8800](tel:8568408800)  
 Contact: Timothy Popp
+
+🌐 [ttienvinc.com](http://www.ttienvinc.com/)  
+Google rating 3.8 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15799193764880961217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00013, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00013)
@@ -124,6 +141,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 902 Centerton Rd, Mount Laurel, NJ 08054  
 ☎ [(856) 993-3498](tel:8569933498)  
 Contact: Daniel Halgas
+
+🌐 [otainspections.com](http://www.otainspections.com/)  
+✉ [info@otainspections.com](mailto:info@otainspections.com)  
+Google rating 4.9 (131 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17469066554537267448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [otainspections.com](https://otainspections.com/), retrieved 2026-10-30.
 
 DCA cert #00818, expires 2028-07-29  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00818)

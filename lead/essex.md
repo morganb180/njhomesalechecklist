@@ -70,6 +70,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(973) 774-3300](tel:9737743300)  
 Contact: Benjamin M. Sallemi
 
+🌐 [gza.com](https://www.gza.com/)  
+Google rating 4.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17002195564978696500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00358, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00358)
 
@@ -157,6 +161,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 251 Elmwynd Dr, Orange, NJ 07050  
 ☎ [(973) 619-5873](tel:9736195873)  
 Contact: Jessie Phillip
+
+🌐 [jp2018llc.com](http://www.jp2018llc.com/contact)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5274184083364956484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00807, expires 2026-12-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00807)

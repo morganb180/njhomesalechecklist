@@ -26,6 +26,11 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ☎ [(908) 813-2323](tel:9088132323)  
 Contact: Glenn P. Brukardt
 
+🌐 [eikonplanning.com](https://www.eikonplanning.com/)  
+✉ [eikonplanning@gmail.com](mailto:eikonplanning@gmail.com)  
+Google rating 2.3 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17132693579917496504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [eikonplanning.com](https://www.eikonplanning.com/), retrieved 2026-10-30.
+
 DCA cert #00849, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00849)
 

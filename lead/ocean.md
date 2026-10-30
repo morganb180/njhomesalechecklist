@@ -26,6 +26,11 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ☎ [(848) 480-5945](tel:8484805945)  
 Contact: David Radsniak
 
+🌐 [pshomeinspections.com](http://www.pshomeinspections.com/)  
+✉ [info@pshomeinspections.com](mailto:info@pshomeinspections.com)  
+Google rating 4.9 (40 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7906317388837047386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [pshomeinspections.com](https://www.pshomeinspections.com/), retrieved 2026-10-30.
+
 DCA cert #00761, expires 2027-08-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00761)
 
@@ -37,6 +42,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(732) 740-8365](tel:7327408365)  
 Contact: Brian Delle Donne
 
+🌐 [rhinj.com](https://rhinj.com/contact-us/)  
+✉ [bsd5007@gmail.com](mailto:bsd5007@gmail.com)  
+Google rating 4.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5007222499827392126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [rhinj.com](https://rhinj.com/contact-us/), retrieved 2026-10-30.
+
 DCA cert #00751, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00751)
 
@@ -47,6 +57,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 1681 Forge Pond Rd, Brick, NJ 08724  
 ☎ [(732) 995-5195](tel:7329955195)  
 Contact: Karla Ryder
+
+🌐 [ryderhomeinspections.com](http://www.ryderhomeinspections.com/)  
+✉ [wayne@ryderhomeinspections.com](mailto:wayne@ryderhomeinspections.com)  
+Google rating 5.0 (69 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10319787697215026619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [ryderhomeinspections.com](https://www.ryderhomeinspections.com/), retrieved 2026-10-30.
 
 DCA cert #00722, expires 2026-12-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00722)
@@ -70,6 +85,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(732) 901-0222](tel:7329010222)  
 Contact: Gershon Kaufman
 
+🌐 [ableadmasters.com](http://ableadmasters.com/)  
+✉ [info@ableadmasters.com](mailto:info@ableadmasters.com)  
+Google rating 5.0 (23 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3575926846670274840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [ableadmasters.com](https://ableadmasters.com/), retrieved 2026-10-30.
+
 DCA cert #00429, expires 2027-02-28  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00429)
 
@@ -80,6 +100,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 37 Blossom Dr, Lakewood, NJ 08701  
 ☎ [(856) 880-5323](tel:8568805323)  
 Contact: Jacob Ausch
+
+🌐 [ajlead.com](https://ajlead.com/)  
+✉ [jacob@ajlead.com](mailto:jacob@ajlead.com)  
+Google rating 5.0 (85 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1311379792871977172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [ajlead.com](https://ajlead.com/), retrieved 2026-10-30.
 
 DCA cert #00757, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00757)
@@ -124,6 +149,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 692 Sussex Ct, Toms River, NJ 08753  
 ☎ [(732) 551-0708](tel:7325510708)  
 Contact: Klodian Belegu
+
+☎ Google listing: [(848) 222-8794](tel:8482228794)  
+🌐 [kbenvironmentalnj.com](https://www.kbenvironmentalnj.com/toms-river)  
+Google rating 5.0 (12 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11993186414293574246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00890, expires 2027-12-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00890)

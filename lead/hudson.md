@@ -26,6 +26,12 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ☎ [(201) 954-0292](tel:2019540292)  
 Contact: Sunil Chillar
 
+☎ Google listing: [(201) 474-0910](tel:2014740910)  
+🌐 [allleadnj.com](https://www.allleadnj.com/)  
+✉ [support@allleadnj.com](mailto:support@allleadnj.com)  
+Google rating 4.8 (59 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17134278444325036117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [allleadnj.com](https://allleadnj.com/), retrieved 2026-10-30.
+
 DCA cert #00767, expires 2027-09-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00767)
 

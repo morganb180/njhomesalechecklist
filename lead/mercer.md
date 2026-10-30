@@ -48,6 +48,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(609) 214-9586](tel:6092149586)  
 Contact: Robert K. Reinhardt Jr.
 
+🌐 [dynamicinspections.net](https://dynamicinspections.net/)  
+✉ [rob@dynamicinspections.net](mailto:rob@dynamicinspections.net)  
+Google rating 5.0 (47 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2696329005651763220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [dynamicinspections.net](https://dynamicinspections.net/), retrieved 2026-10-30.
+
 DCA cert #00887, expires 2027-07-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00887)
 

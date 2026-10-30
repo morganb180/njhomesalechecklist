@@ -48,6 +48,9 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(732) 418-9006](tel:7324189006)  
 Contact: Justin Mastykarz
 
+🌐 [lcagroup.us](http://www.lcagroup.us/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=2685329975837549798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00317, expires 2028-06-11  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00317)
 
@@ -80,6 +83,12 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 62 Mountain Ave, Warren, NJ 07059  
 ☎ [(973) 650-4151](tel:9736504151)  
 Contact: Michael Dominianni
+
+☎ Google listing: [(800) 648-6187](tel:8006486187)  
+🌐 [cornerstonehomeinspections.net](https://www.cornerstonehomeinspections.net/)  
+✉ [cornerstoneinspections100@gmail.com](mailto:cornerstoneinspections100@gmail.com)  
+Google rating 4.9 (202 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=102340884745314858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [cornerstonehomeinspections.net](https://www.cornerstonehomeinspections.net/), retrieved 2026-10-30.
 
 DCA cert #00748, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00748)

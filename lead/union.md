@@ -37,6 +37,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(908) 372-8375](tel:9083728375)  
 Contact: Ryan J. Passos
 
+🌐 [abatednj.com](https://www.abatednj.com/)  
+Google rating 5.0 (22 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=889773507226138203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00806, expires 2028-06-22  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00806)
 
@@ -47,6 +51,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 371 Johnson Ave, Apt C-7, Elizabeth, NJ 07202  
 ☎ [(908) 845-3353](tel:9088453353)  
 Contact: Keri-Dean Scarlett
+
+🌐 [cutaboveiandt.com](http://cutaboveiandt.com/)  
+✉ [keris@cutaboveiandt.com](mailto:keris@cutaboveiandt.com)  
+Google rating 5.0 (41 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15196395136134477866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [cutaboveiandt.com](https://www.cutaboveiandt.com/), retrieved 2026-10-30.
 
 DCA cert #00739, expires 2027-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00739)
@@ -80,6 +89,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 1256 Liberty Ave, Hillside, NJ 07205  
 ☎ [(844) 462-7465](tel:8444627465)  
 Contact: Ron Brink
+
+☎ Google listing: [(908) 964-6534](tel:9089646534)  
+🌐 [brinkstankservices.com](http://www.brinkstankservices.com/)  
+Google rating 3.7 (99 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14480113406018276983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00770, expires 2027-10-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00770)
@@ -125,6 +139,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(908) 688-7800](tel:9086887800)  
 Contact: Geralanne Maglione
 
+🌐 [hillmannconsulting.com](http://www.hillmannconsulting.com/)  
+Google rating 4.6 (13 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4715743392688422194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00101, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00101)
 
@@ -136,6 +154,12 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(908) 206-0073](tel:9082060073)  
 Contact: Ricardo Eustaquio
 
+☎ Google listing: [(866) 311-1534](tel:8663111534)  
+🌐 [irislaboratories.com](http://www.irislaboratories.com/)  
+✉ [support@irislaboratories.com](mailto:support@irislaboratories.com)  
+Google rating 4.9 (689 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2526607286540525401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [irislaboratories.com](https://www.irislaboratories.com/), retrieved 2026-10-30.
+
 DCA cert #00738, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00738)
 
@@ -146,6 +170,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 2717 Linwood Rd, Union, NJ 07083  
 ☎ [(908) 418-2737](tel:9084182737)  
 Contact: Emmanuel O Chiobi
+
+🌐 [optimumenviron.com](http://optimumenviron.com/)  
+✉ [optimumenvironmental@gmail.com](mailto:optimumenvironmental@gmail.com)  
+Google rating 3.7 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7240074723242807081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [optimumenviron.com](https://www.optimumenviron.com/form__map), retrieved 2026-10-30.
 
 DCA cert #00627, expires 2026-10-31 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00627)

@@ -26,6 +26,9 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ☎ [(201) 741-3736](tel:2017413736)  
 Contact: Wieslaw Kutyla
 
+🌐 [tsdelta.com](https://www.tsdelta.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=1298241481987437302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00795, expires 2028-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00795)
 
@@ -70,6 +73,11 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(732) 629-7930](tel:7326297930)  
 Contact: Paul W. Schaefer
 
+🌐 [efiglobal.com](http://www.efiglobal.com/)  
+✉ [marketing@efiglobal.com](mailto:marketing@efiglobal.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7579593716738319247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [efiglobal.com](https://www.efiglobal.com/emerging-pfas-risks-what-you-need-to-know-about-airborne-exposure/), retrieved 2026-10-30.
+
 DCA cert #00716, expires 2026-10-31 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00716)
 
@@ -81,6 +89,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ☎ [(973) 785-7574](tel:9737857574)  
 Contact: Stuart Casciano
 
+🌐 [mandellenvironmental.com](https://www.mandellenvironmental.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13910480545350311531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 DCA cert #00076, expires 2027-08-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00076)
 
@@ -91,6 +103,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 7 Alden Pl, Wayne, NJ 07470  
 ☎ [(201) 477-8573](tel:2014778573)  
 Contact: Michael J. Damato
+
+🌐 [homelogicinspections.com](https://homelogicinspections.com/)  
+Google rating 4.8 (26 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=781212350575562275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00788, expires 2028-01-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00788)
