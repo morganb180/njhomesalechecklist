@@ -39,6 +39,32 @@ A certificate of smoke alarm and carbon monoxide alarm compliance is needed befo
 
 [Passaic](https://njhomesalechecklist.com/smoke-co-certificate/passaic/) · [Paterson](https://njhomesalechecklist.com/smoke-co-certificate/paterson/)
 
+## Getting the certificate in Clifton
+
+1. Contact the issuing agency above and confirm the fee, lead time and inspection checklist.
+2. Apply more than 10 business days before the closing or move-in date, which keeps the state default fee at its lowest tier where it applies.
+3. Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
+
+[Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
+
+## Frequently asked questions
+
+**Do I need a smoke and CO certificate to sell a home in Clifton, NJ?**
+
+Yes, if you are selling or renting out a one- or two-family home in Clifton (Passaic County). You need a certificate of smoke alarm and carbon monoxide alarm compliance before the new occupant moves in.
+
+**Who issues the smoke and CO certificate in Clifton?**
+
+In Clifton, the issuing agency is Clifton Fire Department. Official source: [town page](https://cliftonnj.org/DocumentCenter/View/127/Dwelling-Application-Packet-PDF).
+
+**How much does a smoke and CO certificate cost in New Jersey?**
+
+The state default fee ([N.J.A.C. 5:70-2.9(d)](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-9)): $45 if requested more than 10 business days before the change of occupant, $90 at 4-10 business days, $161 at fewer than 4. Towns with a local enforcing agency may set their own fees by ordinance, and many do.
+
+**How long is a New Jersey smoke and CO certificate valid?**
+
+Not transferable. If the change of occupant doesn't happen within 6 months, a new application is required. Some towns set shorter windows: Woodbridge 60 days and Cherry Hill 90 days, per town documents.
+
 ## Guides
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/) · [Smoke/CO certificate](https://njhomesalechecklist.com/smoke-co-certificate/) · [Well testing](https://njhomesalechecklist.com/well-testing/) · [Radon](https://njhomesalechecklist.com/radon/) · [Oil tanks](https://njhomesalechecklist.com/oil-tanks/)
