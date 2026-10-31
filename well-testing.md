@@ -8,6 +8,8 @@ canonical: https://njhomesalechecklist.com/well-testing/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by NJ Home Sale Checklist staff
+
 * Under the Private Well Testing Act (N.J.S.A. 58:12A-26 et seq.), a contract to sell a property whose potable water comes from a private well must require the water to be tested. Closing can't happen until both buyer and seller have received and reviewed the results ([NJDEP PWTA](https://dep.nj.gov/privatewells/pwta/)).
 * Landlords must test every 5 years and give tenants the results.
 * Samples must be collected by a NJDEP-certified laboratory or its authorized representative, and analyzed by labs certified for each parameter ([NJDEP Office of Quality Assurance](https://dep.nj.gov/dsr/oqa/pwta/)).

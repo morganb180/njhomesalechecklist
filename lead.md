@@ -8,6 +8,8 @@ canonical: https://njhomesalechecklist.com/lead/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by NJ Home Sale Checklist staff
+
 NJ requires lead-safe certification inspections of most pre-1978 rental units at tenant turnover (P.L.2021, c.182). DCA-certified lead evaluation contractors do these inspections and other lead evaluations ([NJ DCA lead-safe certification](https://www.nj.gov/dca/codes/resources/leadpaint.shtml)). Lead inspections are optional for most owner-occupied sales, but buyers of pre-1978 homes get a federal 10-day opportunity to test.
 
 181 current contractors (4 expired entries dropped).

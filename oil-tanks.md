@@ -8,6 +8,8 @@ canonical: https://njhomesalechecklist.com/oil-tanks/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by NJ Home Sale Checklist staff
+
 * **No legal mandate to sweep.** Tank sweeps are driven by buyers, lenders and insurers, not by statute.
 * **Closing a tank is regulated.** Removing or abandoning an underground heating-oil tank in place must be done by a firm certified by NJDEP for UST closure (CLOSURE or HHO CLOSURE cert type), N.J.A.C. 7:14B ([NJDEP Unregulated Heating Oil Tanks](https://dep.nj.gov/srp/unregulated/); [FAQ](https://nj.gov/dep/srp/unregulatedtanks/faqs.html)).
 * A closure firm can do remediation only if it is also certified for subsurface evaluation.

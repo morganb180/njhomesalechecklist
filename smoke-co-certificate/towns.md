@@ -6,6 +6,8 @@ canonical: https://njhomesalechecklist.com/smoke-co-certificate/towns/
 
 # Smoke and CO certificate: town guides
 
+Reviewed by NJ Home Sale Checklist staff
+
 ✔ = we link the town's official page. ⚠ = general statewide guidance; confirm the agency and fee with the town.
 
 * [Bayonne](https://njhomesalechecklist.com/smoke-co-certificate/bayonne/) ⚠

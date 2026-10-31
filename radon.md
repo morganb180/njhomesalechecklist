@@ -8,6 +8,8 @@ canonical: https://njhomesalechecklist.com/radon/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by NJ Home Sale Checklist staff
+
 * NJ doesn't require a radon test to sell a home, but buyers commonly test during the inspection period.
 * Businesses that test for or mitigate radon must be certified by NJDEP (N.J.A.C. 7:28-27). Ask for the business's and the individual's DEP certification numbers ([NJDEP Radon Business Certification](https://dep.nj.gov/rpp/radon/radon_bus/); Radon Section 800-648-0394).
 * DIY kits should carry a NJ certification number starting with MEB9 (NJDEP).

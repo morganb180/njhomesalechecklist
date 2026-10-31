@@ -8,6 +8,8 @@ canonical: https://njhomesalechecklist.com/home-sale-checklist/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by NJ Home Sale Checklist staff
+
 | Item | Required? | Who does it | Guide |
 | --- | --- | --- | --- |
 | Smoke & CO alarm certificate | Yes, 1-2 family homes (statewide) | Town fire official, or NJ DCA | [Guide](https://njhomesalechecklist.com/smoke-co-certificate/) · [by town](https://njhomesalechecklist.com/smoke-co-certificate/towns/) |

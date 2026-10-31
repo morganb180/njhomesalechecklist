@@ -8,6 +8,8 @@ canonical: https://njhomesalechecklist.com/smoke-co-certificate/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by NJ Home Sale Checklist staff
+
 * **When:** before a one- or two-family home or attached single-family home is sold, leased or otherwise changes occupants ([N.J.A.C. 5:70-2.3](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-3)).
 * **Who issues it:** the local enforcing agency (usually the town's fire prevention bureau, fire official or fire district). Where no local agency enforces the Uniform Fire Code, the NJ DCA Division of Fire Safety issues it, through [its online portal](https://firesolutions.dca.nj.gov/ultra-fire-home/smoke-application-create/). The agency may accept a certification *in lieu of inspection* on its own form ([DCA in-lieu form](https://www.nj.gov/dca/divisions/dfs/forms/bfce/certificationinlieu.pdf)).
 * **Validity:** not transferable. If the change of occupant doesn't happen within 6 months, a new application is required. Some towns set shorter windows: Woodbridge 60 days and Cherry Hill 90 days, per town documents.
