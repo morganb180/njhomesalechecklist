@@ -4,6 +4,9 @@
 
 It is for New Jersey sellers, buyers, agents and closing attorneys. Listings: NJ DCA certified lead evaluation contractors (list revised 8/11/2026). NJDEP lists (well-testing labs, radon businesses, UST closure firms) could not be fetched automatically. Those pages link to the official lookup instead. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://njhomesalechecklist.com/index.md).
 
+## Guides hub
+- [New Jersey home sale guides](https://njhomesalechecklist.com/guides/): all guides in one place
+
 ## Checklist & guides
 - [New Jersey Home Sale Checklist: Inspections & Certificates](https://njhomesalechecklist.com/home-sale-checklist/): hub
 - [NJ Smoke & CO Alarm Certificate for Home Sales (CSACMAPFEC)](https://njhomesalechecklist.com/smoke-co-certificate/): statewide rules

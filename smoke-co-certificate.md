@@ -6,6 +6,8 @@ canonical: https://njhomesalechecklist.com/smoke-co-certificate/
 
 # New Jersey smoke alarm and carbon monoxide certificate for a sale
 
+> Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
+
 * **When:** before a one- or two-family home or attached single-family home is sold, leased or otherwise changes occupants ([N.J.A.C. 5:70-2.3](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-3)).
 * **Who issues it:** the local enforcing agency (usually the town's fire prevention bureau, fire official or fire district). Where no local agency enforces the Uniform Fire Code, the NJ DCA Division of Fire Safety issues it, through [its online portal](https://firesolutions.dca.nj.gov/ultra-fire-home/smoke-application-create/). The agency may accept a certification *in lieu of inspection* on its own form ([DCA in-lieu form](https://www.nj.gov/dca/divisions/dfs/forms/bfce/certificationinlieu.pdf)).
 * **Validity:** not transferable. If the change of occupant doesn't happen within 6 months, a new application is required. Some towns set shorter windows: Woodbridge 60 days and Cherry Hill 90 days, per town documents.
@@ -31,6 +33,13 @@ More than 10 business days before closing gets the lowest state fee tier. Many t
 Several towns say it was dropped as of Feb 3, 2025. Confirm with your town before closing.
 
 Retrieved 2026-10-12. General information, not legal advice.
+
+## Sources
+
+- [N.J.A.C. 5:70-2.3](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-3)
+- [its online portal](https://firesolutions.dca.nj.gov/ultra-fire-home/smoke-application-create/)
+- [DCA in-lieu form](https://www.nj.gov/dca/divisions/dfs/forms/bfce/certificationinlieu.pdf)
+- [N.J.A.C. 5:70-2.9(d)](https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-5-70-2-9)
 
 ## Where can I find a DCA-certified lead evaluation contractor in NJ?
 
