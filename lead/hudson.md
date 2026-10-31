@@ -58,6 +58,9 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
 
+
+Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
+
 ## Frequently asked questions
 
 **How many certified lead evaluation contractors are in Hudson County, NJ?**
