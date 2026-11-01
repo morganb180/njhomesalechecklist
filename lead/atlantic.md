@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Tahshin Construction, LLC
+### [Tahshin Construction, LLC](https://njhomesalechecklist.com/lead/evaluators/tahshin-construction-llc-l00865/)
 
 116 Woodbury Dr, Egg Harbor Township, NJ 08234  
 ☎ [(609) 576-2759](tel:6095762759)  
@@ -31,7 +31,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Ak Construction, Inc
+### [Ak Construction, Inc](https://njhomesalechecklist.com/lead/evaluators/ak-construction-inc-l00852/)
 
 101 Palermo Ave, Egg Harbor Twp., NJ 08234  
 ☎ [(609) 377-0483](tel:6093770483)  

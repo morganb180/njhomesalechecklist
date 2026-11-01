@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### NJ Lead & Compliance Services, LLC
+### [NJ Lead & Compliance Services, LLC](https://njhomesalechecklist.com/lead/evaluators/nj-lead-compliance-services-llc-l00928/)
 
 29 Donald St, Bloomfield, NJ 07003  
 ☎ [(610) 312-4900](tel:6103124900)  
@@ -31,7 +31,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Smart Choice Inspections, LLC
+### [Smart Choice Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/smart-choice-inspections-llc-l00790/)
 
 173 Ridge Rd, Apt H1, Cedar Grove, NJ 07009  
 ☎ [(973) 500-3233](tel:9735003233)  
@@ -42,7 +42,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Eco-Vet Environmental, LLC
+### [Eco-Vet Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/eco-vet-environmental-llc-l00863/)
 
 121 Brighton Ave, East Orange, NJ 07017  
 ☎ [(862) 276-9836](tel:8622769836)  
@@ -53,7 +53,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Jayhomes LLC
+### [Jayhomes LLC](https://njhomesalechecklist.com/lead/evaluators/jayhomes-llc-l00775/)
 
 162 Brookwood St, East Orange, NJ 07018  
 ☎ [(973) 477-9199](tel:9734779199)  
@@ -64,7 +64,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Gza Geoenvironmental, Inc.
+### [Gza Geoenvironmental, Inc.](https://njhomesalechecklist.com/lead/evaluators/gza-geoenvironmental-inc-l00358/)
 
 55 Ln Rd, Suite 407, Fairfield, NJ 07004  
 ☎ [(973) 774-3300](tel:9737743300)  
@@ -79,7 +79,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Tectonic Eng.& Surveying,inc.
+### [Tectonic Eng.& Surveying,inc.](https://njhomesalechecklist.com/lead/evaluators/tectonic-eng-surveying-inc-l00664/)
 
 33 Bleeker St, Suite 206, Millburn, NJ 07041  
 ☎ [(973) 467-5850](tel:9734675850)  
@@ -90,7 +90,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### A Liu Company
+### [A Liu Company](https://njhomesalechecklist.com/lead/evaluators/a-liu-company-l00809/)
 
 10 Walnut Pkwy, Montclair, NJ 07042  
 ☎ [(732) 301-4599](tel:7323014599)  
@@ -101,7 +101,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Greenworks Environmental
+### [Greenworks Environmental](https://njhomesalechecklist.com/lead/evaluators/greenworks-environmental-l00735/)
 
 41 Watchung Plaza, #253, Montclair, NJ 07042  
 ☎ [(201) 800-3211](tel:2018003211)  
@@ -112,7 +112,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Aspis Environmental, LLC
+### [Aspis Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/aspis-environmental-llc-l00899/)
 
 601 15th Ave, #1, Newark, NJ 07103  
 ☎ [(609) 433-6258](tel:6094336258)  
@@ -123,7 +123,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Entech Engineering of NJ
+### [Entech Engineering of NJ](https://njhomesalechecklist.com/lead/evaluators/entech-engineering-of-nj-l00701/)
 
 One Gateway Center, Newark, NJ 07102  
 ☎ [(732) 796-4792](tel:7327964792)  
@@ -134,7 +134,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Y & N Construction, LLC.
+### [Y & N Construction, LLC.](https://njhomesalechecklist.com/lead/evaluators/y-n-construction-llc-l00898/)
 
 37 Irving Ave, Newark, NJ 07112  
 ☎ [(862) 236-8691](tel:8622368691)  
@@ -145,7 +145,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Absolute Jm Services LLC
+### [Absolute Jm Services LLC](https://njhomesalechecklist.com/lead/evaluators/absolute-jm-services-llc-l00681/)
 
 144 Elm St, Suite 6, Orange, NJ 07050  
 ☎ [(862) 250-1925](tel:8622501925)  
@@ -156,7 +156,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Jp2018, LLC
+### [Jp2018, LLC](https://njhomesalechecklist.com/lead/evaluators/jp2018-llc-l00807/)
 
 251 Elmwynd Dr, Orange, NJ 07050  
 ☎ [(973) 619-5873](tel:9736195873)  
@@ -171,7 +171,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### A-Arcalenz, LLC
+### [A-Arcalenz, LLC](https://njhomesalechecklist.com/lead/evaluators/a-arcalenz-llc-l00721/)
 
 571 Pleasant Valley Way, West Orange, NJ 07052  
 ☎ [(862) 224-2356](tel:8622242356)  

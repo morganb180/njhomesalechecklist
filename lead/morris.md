@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Tai He Contracting, LLC
+### [Tai He Contracting, LLC](https://njhomesalechecklist.com/lead/evaluators/tai-he-contracting-llc-l00824/)
 
 21 Birchwood Ln, Boonton Township, NJ 07005  
 ☎ [(973) 723-3883](tel:9737233883)  
@@ -31,7 +31,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Extra Mile Home Inspection SVC
+### [Extra Mile Home Inspection SVC](https://njhomesalechecklist.com/lead/evaluators/extra-mile-home-inspection-svc-l00869/)
 
 13 S Belair Ave, Cedar Knolls, NJ 07927  
 ☎ [(201) 952-8241](tel:2019528241)  
@@ -42,7 +42,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Lead Consulting & Inspection
+### [Lead Consulting & Inspection](https://njhomesalechecklist.com/lead/evaluators/lead-consulting-inspection-l00121/)
 
 219 Main St, Box 814, Chatham, NJ 07928  
 ☎ [(973) 912-0222](tel:9739120222)  
@@ -56,7 +56,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Suburban Consulting Engineers
+### [Suburban Consulting Engineers](https://njhomesalechecklist.com/lead/evaluators/suburban-consulting-engineers-l00796/)
 
 96 US Hwy 206, Suite 101, Flanders, NJ 07836  
 ☎ [(973) 398-1776](tel:9733981776)  
@@ -71,7 +71,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Matrix New World Eng.
+### [Matrix New World Eng.](https://njhomesalechecklist.com/lead/evaluators/matrix-new-world-eng-l00204/)
 
 26 Columbia Turnpike, Florham Park, NJ 07932  
 ☎ [(973) 240-1800](tel:9732401800)  
@@ -87,7 +87,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Sra Home Inspection
+### [Sra Home Inspection](https://njhomesalechecklist.com/lead/evaluators/sra-home-inspection-l00734/)
 
 26 Luke Pl, Landing, NJ 07850  
 ☎ [(201) 401-1634](tel:2014011634)  
@@ -98,7 +98,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Lew Environmental Services,llc
+### [Lew Environmental Services,llc](https://njhomesalechecklist.com/lead/evaluators/lew-environmental-services-llc-l00015/)
 
 181 US Hwy 46, Mine Hill, NJ 07803  
 ☎ [(908) 654-8068](tel:9086548068)  
@@ -114,7 +114,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Empire Environmental, Ltd
+### [Empire Environmental, Ltd](https://njhomesalechecklist.com/lead/evaluators/empire-environmental-ltd-l00630/)
 
 150 River Rd, Suite F4, Montville, NJ 07045  
 ☎ [(973) 334-5641](tel:9733345641)  
@@ -129,7 +129,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Polo & Assoc. Home Inspections
+### [Polo & Assoc. Home Inspections](https://njhomesalechecklist.com/lead/evaluators/polo-assoc-home-inspections-l00746/)
 
 1656 Littleton Rd, Morris Plains, NJ 07950  
 ☎ [(973) 539-0715](tel:9735390715)  
@@ -145,7 +145,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Nv5, Inc.
+### [Nv5, Inc.](https://njhomesalechecklist.com/lead/evaluators/nv5-inc-l00574/)
 
 412 Mt. Kemble Ave, Suite 100C, Morristown, NJ 07960  
 ☎ [(973) 946-5600](tel:9739465600)  
@@ -161,7 +161,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Mastertech North Jersey, LLC
+### [Mastertech North Jersey, LLC](https://njhomesalechecklist.com/lead/evaluators/mastertech-north-jersey-llc-l00908/)
 
 4 Cove Rd, Mount Arlington, NJ 07856  
 ☎ [(973) 668-4060](tel:9736684060)  
@@ -177,7 +177,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Sky Environmental Services Inc
+### [Sky Environmental Services Inc](https://njhomesalechecklist.com/lead/evaluators/sky-environmental-services-inc-l00479/)
 
 140 Blvd, Mountain Lakes, NJ 07046  
 ☎ [(973) 769-6946](tel:9737696946)  
@@ -191,7 +191,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### H2m Architects & Engineers
+### [H2m Architects & Engineers](https://njhomesalechecklist.com/lead/evaluators/h2m-architects-engineers-l00799/)
 
 119 Cherry Hill Rd, Suite 200, Parsippany, NJ 07054  
 ☎ [(862) 207-5900](tel:8622075900)  
@@ -207,7 +207,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Private I Home Inspection, LLC
+### [Private I Home Inspection, LLC](https://njhomesalechecklist.com/lead/evaluators/private-i-home-inspection-llc-l00814/)
 
 52 Radtke Rd, Randolph, NJ 07869  
 ☎ [(973) 440-9894](tel:9734409894)  
@@ -218,7 +218,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Remedy Inspections, LLC
+### [Remedy Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/remedy-inspections-llc-l00756/)
 
 179 Rte 46W, Suite 15, #358, Rockaway, NJ 07866  
 ☎ [(908) 210-5816](tel:9082105816)  

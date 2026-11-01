@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Guardian Home Services, LLC
+### [Guardian Home Services, LLC](https://njhomesalechecklist.com/lead/evaluators/guardian-home-services-llc-l00793/)
 
 31 Union Ave, Cresskill, NJ 07626  
 ☎ [(201) 568-2209](tel:2015682209)  
@@ -35,7 +35,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Fast Track Home Inspectors,llc
+### [Fast Track Home Inspectors,llc](https://njhomesalechecklist.com/lead/evaluators/fast-track-home-inspectors-llc-l00762/)
 
 116 Bellaire Dr, Demarest, NJ 07627  
 ☎ [(201) 665-3333](tel:2016653333)  
@@ -46,7 +46,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Prime Environmental NJ, LLC
+### [Prime Environmental NJ, LLC](https://njhomesalechecklist.com/lead/evaluators/prime-environmental-nj-llc-l00917/)
 
 168 Humboldt St, East Rutherford, NJ 07073  
 ☎ [(732) 242-1042](tel:7322421042)  
@@ -62,7 +62,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### I Home Inspections, LLC
+### [I Home Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/i-home-inspections-llc-l00765/)
 
 190 Sylvan Ave, Suite D1, Englewood Cliffs, NJ 07632  
 ☎ [(201) 503-5577](tel:2015035577)  
@@ -79,7 +79,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Djp Lead, LLC
+### [Djp Lead, LLC](https://njhomesalechecklist.com/lead/evaluators/djp-lead-llc-l00885/)
 
 4-02 Fair Lawn Ave, Fair Lawn, NJ 07410  
 ☎ [(862) 226-6657](tel:8622266657)  
@@ -90,7 +90,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Gls Inspections LLC
+### [Gls Inspections LLC](https://njhomesalechecklist.com/lead/evaluators/gls-inspections-llc-l00696/)
 
 41-15 Elaine Ter, Fair Lawn, NJ 07410  
 ☎ [(201) 988-1995](tel:2019881995)  
@@ -101,7 +101,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Aim Environmental LLC
+### [Aim Environmental LLC](https://njhomesalechecklist.com/lead/evaluators/aim-environmental-llc-l00693/)
 
 2460 Lemoine Ave, Suite 503, Fort Lee, NJ 07024  
 ☎ [(201) 528-5047](tel:2015285047)  
@@ -116,7 +116,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### S.A Barcia Inspections LLC
+### [S.A Barcia Inspections LLC](https://njhomesalechecklist.com/lead/evaluators/s-a-barcia-inspections-llc-l00656/)
 
 341 Park St 2FLR, Hackensack, NJ 07601  
 ☎ [(201) 487-5005](tel:2014875005)  
@@ -131,7 +131,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Veriguard Home Inspections,llc
+### [Veriguard Home Inspections,llc](https://njhomesalechecklist.com/lead/evaluators/veriguard-home-inspections-llc-l00871/)
 
 31 Fairmount Ave, Hackensack, NJ 07601  
 ☎ [(201) 790-8736](tel:2017908736)  
@@ -147,7 +147,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Lead Paint Inspections, LLC
+### [Lead Paint Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/lead-paint-inspections-llc-l00763/)
 
 26 Whitman Pl, Hillsdale, NJ 07642  
 ☎ [(201) 522-3204](tel:2015223204)  
@@ -158,7 +158,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### McCabe Environmental Services
+### [McCabe Environmental Services](https://njhomesalechecklist.com/lead/evaluators/mccabe-environmental-services-l00338/)
 
 464 Valley Brook Ave, Lyndhurst, NJ 07071  
 ☎ [(201) 438-4839](tel:2014384839)  
@@ -174,7 +174,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Tadco Engineering
+### [Tadco Engineering](https://njhomesalechecklist.com/lead/evaluators/tadco-engineering-l00551/)
 
 1099 Wall St West, Lyndhurst, NJ 07071  
 ☎ [(201) 222-5322](tel:2012225322)  
@@ -190,7 +190,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Tajes Environmental Services
+### [Tajes Environmental Services](https://njhomesalechecklist.com/lead/evaluators/tajes-environmental-services-l00879/)
 
 514 Fern Ave, Lyndhurst, NJ 07071  
 ☎ [(201) 705-6346](tel:2017056346)  
@@ -201,7 +201,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Proactive Environmental
+### [Proactive Environmental](https://njhomesalechecklist.com/lead/evaluators/proactive-environmental-l00776/)
 
 7 N Bayard Ln, Mahwah, NJ 07430  
 ☎ [(201) 424-1566](tel:2014241566)  
@@ -217,7 +217,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Stateline Home Inspection, LLC
+### [Stateline Home Inspection, LLC](https://njhomesalechecklist.com/lead/evaluators/stateline-home-inspection-llc-l00785/)
 
 9 Magnolia Ave, Montvale, NJ 07645  
 ☎ [(201) 390-4912](tel:2013904912)  
@@ -232,7 +232,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Lek Environmental
+### [Lek Environmental](https://njhomesalechecklist.com/lead/evaluators/lek-environmental-l00925/)
 
 28 E Palisades Blvd, #21, Palisades Park, NJ 07650  
 ☎ [(914) 314-4248](tel:9143144248)  
@@ -243,7 +243,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Icu Home Inspection, LLC
+### [Icu Home Inspection, LLC](https://njhomesalechecklist.com/lead/evaluators/icu-home-inspection-llc-l00779/)
 
 667 Woodside Ave, River Vale, NJ 07675  
 ☎ [(201) 213-3480](tel:2012133480)  
@@ -259,7 +259,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Mkm NJ Inc
+### [Mkm NJ Inc](https://njhomesalechecklist.com/lead/evaluators/mkm-nj-inc-l00870/)
 
 151 W Passaic St, Rochelle Park, NJ 07662  
 ☎ [(212) 508-9777](tel:2125089777)  
@@ -275,7 +275,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Boswell Incorporated
+### [Boswell Incorporated](https://njhomesalechecklist.com/lead/evaluators/boswell-incorporated-l00810/)
 
 330 Phillips Ave, South Hackensack, NJ 07606  
 ☎ [(201) 373-8906](tel:2013738906)  
@@ -291,7 +291,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Omega Env. Services, Inc.
+### [Omega Env. Services, Inc.](https://njhomesalechecklist.com/lead/evaluators/omega-env-services-inc-l00120/)
 
 280 Huyler St, South Hackensack, NJ 07606  
 ☎ [(201) 489-8700](tel:2014898700)  
@@ -302,7 +302,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Point Enviro, LLC
+### [Point Enviro, LLC](https://njhomesalechecklist.com/lead/evaluators/point-enviro-llc-l00729/)
 
 55 Maple Ave, Unit 2, Wallington, NJ 07057  
 ☎ [(201) 690-7008](tel:2016907008)  

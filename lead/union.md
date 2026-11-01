@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Malco Environmental, LLC
+### [Malco Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/malco-environmental-llc-l00845/)
 
 24 Lincoln Ave West, Cranford, NJ 07016  
 ☎ [(732) 513-3487](tel:7325133487)  
@@ -31,7 +31,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Abated, LLC
+### [Abated, LLC](https://njhomesalechecklist.com/lead/evaluators/abated-llc-l00806/)
 
 111 Clark Pl, Elizabeth, NJ 07206  
 ☎ [(908) 372-8375](tel:9083728375)  
@@ -46,7 +46,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Cut Above Insp. & Testing, LLC
+### [Cut Above Insp. & Testing, LLC](https://njhomesalechecklist.com/lead/evaluators/cut-above-insp-testing-llc-l00739/)
 
 371 Johnson Ave, Apt C-7, Elizabeth, NJ 07202  
 ☎ [(908) 845-3353](tel:9088453353)  
@@ -62,7 +62,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Pledge Environmental, LLC
+### [Pledge Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/pledge-environmental-llc-l00862/)
 
 648 Newark Ave, Elizabeth, NJ 07208  
 ☎ [(609) 208-5535](tel:6092085535)  
@@ -73,7 +73,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### A. Paul Contracting Corp.
+### [A. Paul Contracting Corp.](https://njhomesalechecklist.com/lead/evaluators/a-paul-contracting-corp-l00719/)
 
 293 Shelton Ter, Hillside, NJ 07205  
 ☎ [(973) 705-9555](tel:9737059555)  
@@ -84,7 +84,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Brink's Tank & Env. Services
+### [Brink's Tank & Env. Services](https://njhomesalechecklist.com/lead/evaluators/brink-s-tank-env-services-l00770/)
 
 1256 Liberty Ave, Hillside, NJ 07205  
 ☎ [(844) 462-7465](tel:8444627465)  
@@ -100,7 +100,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Safeway Home Inspections, LLC
+### [Safeway Home Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/safeway-home-inspections-llc-l00860/)
 
 105 Union Ave, New Providence, NJ 07974  
 ☎ [(908) 447-9445](tel:9084479445)  
@@ -111,7 +111,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Ade Environmental Services,llc
+### [Ade Environmental Services,llc](https://njhomesalechecklist.com/lead/evaluators/ade-environmental-services-llc-l00850/)
 
 44 Fairview Ave, North Plainfield, NJ 07060  
 ☎ [(908) 548-7180](tel:9085487180)  
@@ -122,7 +122,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Roots Inspection Services, LLC
+### [Roots Inspection Services, LLC](https://njhomesalechecklist.com/lead/evaluators/roots-inspection-services-llc-l00900/)
 
 1070 Cooper Rd, Scotch Plains, NJ 07076  
 ☎ [(908) 917-9928](tel:9089179928)  
@@ -133,7 +133,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Hillmann Consulting, LLC
+### [Hillmann Consulting, LLC](https://njhomesalechecklist.com/lead/evaluators/hillmann-consulting-llc-l00101/)
 
 1600 Route 22 E Suite 107, Union, NJ 07083  
 ☎ [(908) 688-7800](tel:9086887800)  
@@ -148,7 +148,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Iris Environmetal Laboratories
+### [Iris Environmetal Laboratories](https://njhomesalechecklist.com/lead/evaluators/iris-environmetal-laboratories-l00738/)
 
 2333 US Hwy 22W. Bldg.4, Union, NJ 07083  
 ☎ [(908) 206-0073](tel:9082060073)  
@@ -165,7 +165,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Optimum Environmental Solution
+### [Optimum Environmental Solution](https://njhomesalechecklist.com/lead/evaluators/optimum-environmental-solution-l00627/)
 
 2717 Linwood Rd, Union, NJ 07083  
 ☎ [(908) 418-2737](tel:9084182737)  
@@ -181,7 +181,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### ABC Environmental Services,llc
+### [ABC Environmental Services,llc](https://njhomesalechecklist.com/lead/evaluators/abc-environmental-services-llc-l00823/)
 
 1515 Route 22 W, Suite 1027, Watchung, NJ 07069  
 ☎ [(908) 616-5016](tel:9086165016)  

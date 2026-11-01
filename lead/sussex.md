@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Abs Environmental Group, LLC
+### [Abs Environmental Group, LLC](https://njhomesalechecklist.com/lead/evaluators/abs-environmental-group-llc-l00812/)
 
 4 E.gate Dr, PO Box 483, Glenwood, NJ 07418  
 ☎ [(973) 583-8500](tel:9735838500)  
@@ -36,7 +36,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Leadguys NJ
+### [Leadguys NJ](https://njhomesalechecklist.com/lead/evaluators/leadguys-nj-l00903/)
 
 12 Maple Ave, Newton, NJ 07860  
 ☎ [(201) 253-6778](tel:2012536778)  
@@ -47,7 +47,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Environmental Health Invest.
+### [Environmental Health Invest.](https://njhomesalechecklist.com/lead/evaluators/environmental-health-invest-l00388/)
 
 655 W Shore Trail, Sparta, NJ 07871  
 ☎ [(973) 729-5649](tel:9737295649)  

@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### All Lead NJ, LLC
+### [All Lead NJ, LLC](https://njhomesalechecklist.com/lead/evaluators/all-lead-nj-llc-l00767/)
 
 157 A First St, Suite 341, Jersey City, NJ 07302  
 ☎ [(201) 954-0292](tel:2019540292)  
@@ -37,7 +37,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Selva Lead Paint Inspection
+### [Selva Lead Paint Inspection](https://njhomesalechecklist.com/lead/evaluators/selva-lead-paint-inspection-l00787/)
 
 57 3rd Ave, Apt #2, Secaucus, NJ 07094  
 ☎ [(551) 327-6660](tel:5513276660)  

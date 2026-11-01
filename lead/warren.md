@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Eikon Planning & Design, LLC
+### [Eikon Planning & Design, LLC](https://njhomesalechecklist.com/lead/evaluators/eikon-planning-design-llc-l00849/)
 
 221 High St, Hackettstown, NJ 07840  
 ☎ [(908) 813-2323](tel:9088132323)  
@@ -36,7 +36,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Saturno Environmental Testing
+### [Saturno Environmental Testing](https://njhomesalechecklist.com/lead/evaluators/saturno-environmental-testing-l00859/)
 
 114 Bullman St, Phillipsburg, NJ 08865  
 ☎ [(347) 892-5148](tel:3478925148)  
@@ -47,7 +47,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Stateline Lead Inspections
+### [Stateline Lead Inspections](https://njhomesalechecklist.com/lead/evaluators/stateline-lead-inspections-l00817/)
 
 277 N Main St, Phillipsburg, NJ 08865  
 ☎ [(908) 827-1315](tel:9088271315)  
@@ -58,7 +58,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Daset Home Inspections, LLC
+### [Daset Home Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/daset-home-inspections-llc-l00773/)
 
 317 Jessamine Ln, Stewartsville, NJ 08886  
 ☎ [(908) 954-8946](tel:9089548946)  
@@ -69,7 +69,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Heartland Environmental Svcs.
+### [Heartland Environmental Svcs.](https://njhomesalechecklist.com/lead/evaluators/heartland-environmental-svcs-l00758/)
 
 76 Bryan Rd, Washington, NJ 07882  
 ☎ [(908) 619-8755](tel:9086198755)  

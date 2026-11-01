@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Ts Delta, Inc
+### [Ts Delta, Inc](https://njhomesalechecklist.com/lead/evaluators/ts-delta-inc-l00795/)
 
 7 Lehigh Ave, Clifton, NJ 07012  
 ☎ [(201) 741-3736](tel:2017413736)  
@@ -34,7 +34,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### A1 Environmental Inspections
+### [A1 Environmental Inspections](https://njhomesalechecklist.com/lead/evaluators/a1-environmental-inspections-l00867/)
 
 463 Main St, Suite 1R #1018, Little Falls, NJ 07424  
 ☎ [(973) 960-1192](tel:9739601192)  
@@ -45,7 +45,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Pro Vista Home Inspections
+### [Pro Vista Home Inspections](https://njhomesalechecklist.com/lead/evaluators/pro-vista-home-inspections-l00808/)
 
 20 Ascension St, Passaic, NJ 07055  
 ☎ [(862) 232-9372](tel:8622329372)  
@@ -56,7 +56,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Skyline Environmental Services
+### [Skyline Environmental Services](https://njhomesalechecklist.com/lead/evaluators/skyline-environmental-services-l00754/)
 
 323 Skyline Dr, Ringwood, NJ 07456  
 ☎ [(862) 684-0094](tel:8626840094)  
@@ -67,7 +67,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Efi Global, Inc.
+### [Efi Global, Inc.](https://njhomesalechecklist.com/lead/evaluators/efi-global-inc-l00716/)
 
 11 Commerce Way, Suite A, Totowa, NJ 07512  
 ☎ [(732) 629-7930](tel:7326297930)  
@@ -83,7 +83,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Mandell Lead Inspectors, Inc.
+### [Mandell Lead Inspectors, Inc.](https://njhomesalechecklist.com/lead/evaluators/mandell-lead-inspectors-inc-l00076/)
 
 409 Minnisink Rd, Suite 204, Totowa, NJ 07512  
 ☎ [(973) 785-7574](tel:9737857574)  
@@ -98,7 +98,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Homelogic Inspection Services
+### [Homelogic Inspection Services](https://njhomesalechecklist.com/lead/evaluators/homelogic-inspection-services-l00788/)
 
 7 Alden Pl, Wayne, NJ 07470  
 ☎ [(201) 477-8573](tel:2014778573)  
@@ -113,7 +113,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Knox Home Inspections, LLC
+### [Knox Home Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/knox-home-inspections-llc-l00753/)
 
 620 Otterhole Rd, West Milford, NJ 07480  
 ☎ [(973) 800-4063](tel:9738004063)  

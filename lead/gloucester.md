@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Environmental Testing Services
+### [Environmental Testing Services](https://njhomesalechecklist.com/lead/evaluators/environmental-testing-services-l00531/)
 
 619 Wills Ave, Deptford, NJ 08096  
 ☎ [(215) 783-7261](tel:2157837261)  
@@ -31,7 +31,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Three Rivers Environmental
+### [Three Rivers Environmental](https://njhomesalechecklist.com/lead/evaluators/three-rivers-environmental-l00911/)
 
 35 Hickory Ridge Ct, Mullica Hill, NJ 08062  
 ☎ [(856) 434-4975](tel:8564344975)  
@@ -42,7 +42,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Fig Environmental
+### [Fig Environmental](https://njhomesalechecklist.com/lead/evaluators/fig-environmental-l00846/)
 
 8 Tranquility Ct, Sewell, NJ 08080  
 ☎ [(856) 553-6162](tel:8565536162)  
@@ -53,7 +53,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Ingt Lead Swipe, LLC
+### [Ingt Lead Swipe, LLC](https://njhomesalechecklist.com/lead/evaluators/ingt-lead-swipe-llc-l00723/)
 
 24 Derby Rd, Swedesboro, NJ 08085  
 ☎ [(609) 828-0479](tel:6098280479)  

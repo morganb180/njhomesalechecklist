@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Berenato Env. Associates, LLC
+### [Berenato Env. Associates, LLC](https://njhomesalechecklist.com/lead/evaluators/berenato-env-associates-llc-l00853/)
 
 205 W Seaspray Rd, Ocean City, NJ 08226  
 ☎ [(609) 399-6653](tel:6093996653)  

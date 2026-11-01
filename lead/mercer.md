@@ -20,7 +20,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Restoration Pro 365
+### [Restoration Pro 365](https://njhomesalechecklist.com/lead/evaluators/restoration-pro-365-l00893/)
 
 1977 N.olden Ave, Suite 123, Ewing, NJ 08618  
 ☎ [(888) 362-8444](tel:8883628444)  
@@ -31,7 +31,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Environmental Logic, LLC
+### [Environmental Logic, LLC](https://njhomesalechecklist.com/lead/evaluators/environmental-logic-llc-l00702/)
 
 15 Princess Rd, Suite K, Lawrenceville, NJ 08648  
 ☎ [(609) 910-0720](tel:6099100720)  
@@ -42,7 +42,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Dynamic Inspections, LLC
+### [Dynamic Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/dynamic-inspections-llc-l00887/)
 
 300 Carnegie Center, Suite 150, Princeton, NJ 08540  
 ☎ [(609) 214-9586](tel:6092149586)  
@@ -58,7 +58,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings Commercial buildings & steel structures
 
-### Montrose Env. Solutions, Inc.
+### [Montrose Env. Solutions, Inc.](https://njhomesalechecklist.com/lead/evaluators/montrose-env-solutions-inc-l00416/)
 
 500 Horizon Dr, Suite 540, Robbinsville, NJ 08691  
 ☎ [(609) 890-7277](tel:6098907277)  
@@ -69,7 +69,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 
 ✔ NJ DCA-certified lead evaluation contractor Residential structures & public buildings
 
-### Environmental Connection Inc.
+### [Environmental Connection Inc.](https://njhomesalechecklist.com/lead/evaluators/environmental-connection-inc-l00200/)
 
 120 N Warren St, Trenton, NJ 08608  
 ☎ [(609) 392-4200](tel:6093924200)  
