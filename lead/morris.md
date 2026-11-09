@@ -23,7 +23,6 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Tai He Contracting, LLC](https://njhomesalechecklist.com/lead/evaluators/tai-he-contracting-llc-l00824/)
 
 21 Birchwood Ln, Boonton Township, NJ 07005  
-☎ [(973) 723-3883](tel:9737233883)  
 Contact: Lotus Zhang
 
 DCA cert #00824, expires 2028-07-31  
@@ -34,7 +33,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Extra Mile Home Inspection SVC](https://njhomesalechecklist.com/lead/evaluators/extra-mile-home-inspection-svc-l00869/)
 
 13 S Belair Ave, Cedar Knolls, NJ 07927  
-☎ [(201) 952-8241](tel:2019528241)  
 Contact: Christopher A. Guerriero
 
 DCA cert #00869, expires 2027-04-30  
@@ -45,11 +43,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Lead Consulting & Inspection](https://njhomesalechecklist.com/lead/evaluators/lead-consulting-inspection-l00121/)
 
 219 Main St, Box 814, Chatham, NJ 07928  
-☎ [(973) 912-0222](tel:9739120222)  
 Contact: Luke Schroeder
 
 Google rating 1.0 (3 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16049237832298757104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00121, expires 2027-08-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00121)
@@ -59,12 +56,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Suburban Consulting Engineers](https://njhomesalechecklist.com/lead/evaluators/suburban-consulting-engineers-l00796/)
 
 96 US Hwy 206, Suite 101, Flanders, NJ 07836  
-☎ [(973) 398-1776](tel:9733981776)  
 Contact: Brian Strout
 
-🌐 [suburbanconsulting.com](http://www.suburbanconsulting.com/)  
 Google rating 4.7 (20 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1568213326888293185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00796, expires 2028-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00796)
@@ -74,13 +69,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Matrix New World Eng.](https://njhomesalechecklist.com/lead/evaluators/matrix-new-world-eng-l00204/)
 
 26 Columbia Turnpike, Florham Park, NJ 07932  
-☎ [(973) 240-1800](tel:9732401800)  
 Contact: Jayne Warne
 
-🌐 [mnwe.com](http://mnwe.com/)  
-✉ [info@mnwe.com](mailto:info@mnwe.com)  
 Google rating 4.9 (12 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17792678262771505972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mnwe.com](https://mnwe.com/get-in-touch/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00204, expires 2027-12-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00204)
@@ -90,7 +82,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Sra Home Inspection](https://njhomesalechecklist.com/lead/evaluators/sra-home-inspection-l00734/)
 
 26 Luke Pl, Landing, NJ 07850  
-☎ [(201) 401-1634](tel:2014011634)  
 Contact: Sergio Angione
 
 DCA cert #00734, expires 2027-11-30  
@@ -101,13 +92,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Lew Environmental Services,llc](https://njhomesalechecklist.com/lead/evaluators/lew-environmental-services-llc-l00015/)
 
 181 US Hwy 46, Mine Hill, NJ 07803  
-☎ [(908) 654-8068](tel:9086548068)  
 Contact: Greg Krueger
 
-☎ Google listing: [(800) 783-0567](tel:8007830567)  
-🌐 [lewenvironmental.com](https://lewenvironmental.com/)  
 Google rating 4.2 (76 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10560583163025308234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00015, expires 2027-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00015)
@@ -117,12 +105,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Empire Environmental, Ltd](https://njhomesalechecklist.com/lead/evaluators/empire-environmental-ltd-l00630/)
 
 150 River Rd, Suite F4, Montville, NJ 07045  
-☎ [(973) 334-5641](tel:9733345641)  
 Contact: Michael J Boggi
 
-🌐 [empireenvironmentalltd.com](http://empireenvironmentalltd.com/)  
 Google rating 5.0 (4 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5301760378697840078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00630, expires 2028-06-11  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00630)
@@ -132,13 +118,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Polo & Assoc. Home Inspections](https://njhomesalechecklist.com/lead/evaluators/polo-assoc-home-inspections-l00746/)
 
 1656 Littleton Rd, Morris Plains, NJ 07950  
-☎ [(973) 539-0715](tel:9735390715)  
 Contact: David J. Polo
 
-☎ Google listing: [(973) 452-2708](tel:9734522708)  
-🌐 [newjerseyhomeinspections.com](https://www.newjerseyhomeinspections.com/)  
 Google rating 4.7 (132 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7362283402079579110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00746, expires 2027-02-28  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00746)
@@ -148,13 +131,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Nv5, Inc.](https://njhomesalechecklist.com/lead/evaluators/nv5-inc-l00574/)
 
 412 Mt. Kemble Ave, Suite 100C, Morristown, NJ 07960  
-☎ [(973) 946-5600](tel:9739465600)  
 Contact: Glenn A Calabrese
 
-🌐 [nv5.com](https://www.nv5.com/)  
-✉ [info@nv5.com](mailto:info@nv5.com)  
 Google rating 4.0 (4 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13360997970829393311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [nv5.com](https://www.nv5.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00574, expires 2028-04-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00574)
@@ -164,13 +144,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Mastertech North Jersey, LLC](https://njhomesalechecklist.com/lead/evaluators/mastertech-north-jersey-llc-l00908/)
 
 4 Cove Rd, Mount Arlington, NJ 07856  
-☎ [(973) 668-4060](tel:9736684060)  
 Contact: Eric Green
 
-🌐 [mastertechnnj.com](http://www.mastertechnnj.com/)  
-✉ [info@mastertechnnj.com](mailto:info@mastertechnnj.com)  
 Google rating 5.0 (85 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2672317618039692650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mastertechnnj.com](https://www.mastertechnnj.com/contact), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00908, expires 2028-01-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00908)
@@ -180,11 +157,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Sky Environmental Services Inc](https://njhomesalechecklist.com/lead/evaluators/sky-environmental-services-inc-l00479/)
 
 140 Blvd, Mountain Lakes, NJ 07046  
-☎ [(973) 769-6946](tel:9737696946)  
 Contact: Leonid Shereshevsky
 
 Google rating 5.0 (3 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11766091206116306309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00479, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00479)
@@ -194,13 +170,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [H2m Architects & Engineers](https://njhomesalechecklist.com/lead/evaluators/h2m-architects-engineers-l00799/)
 
 119 Cherry Hill Rd, Suite 200, Parsippany, NJ 07054  
-☎ [(862) 207-5900](tel:8622075900)  
 Contact: Charles A. Martello
 
-🌐 [h2m.com](http://www.h2m.com/)  
-✉ [compliance@h2m.com](mailto:compliance@h2m.com)  
 Google rating 5.0 (2 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7221667460364005751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [h2m.com](https://www.h2m.com/offices/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00799, expires 2028-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00799)
@@ -210,7 +183,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Private I Home Inspection, LLC](https://njhomesalechecklist.com/lead/evaluators/private-i-home-inspection-llc-l00814/)
 
 52 Radtke Rd, Randolph, NJ 07869  
-☎ [(973) 440-9894](tel:9734409894)  
 Contact: Anthony Iemmello
 
 DCA cert #00814, expires 2028-05-31  
@@ -221,7 +193,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Remedy Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/remedy-inspections-llc-l00756/)
 
 179 Rte 46W, Suite 15, #358, Rockaway, NJ 07866  
-☎ [(908) 210-5816](tel:9082105816)  
 Contact: Eric Mohlenhoff
 
 DCA cert #00756, expires 2027-08-31  
@@ -233,12 +204,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Morris County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

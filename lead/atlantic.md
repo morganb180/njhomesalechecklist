@@ -23,7 +23,6 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Tahshin Construction, LLC](https://njhomesalechecklist.com/lead/evaluators/tahshin-construction-llc-l00865/)
 
 116 Woodbury Dr, Egg Harbor Township, NJ 08234  
-☎ [(609) 576-2759](tel:6095762759)  
 Contact: Afshana Anzum
 
 DCA cert #00865, expires 2027-03-31  
@@ -34,7 +33,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Ak Construction, Inc](https://njhomesalechecklist.com/lead/evaluators/ak-construction-inc-l00852/)
 
 101 Palermo Ave, Egg Harbor Twp., NJ 08234  
-☎ [(609) 377-0483](tel:6093770483)  
 Contact: Iqbal Husaeen
 
 DCA cert #00852, expires 2026-11-30 (expires within 60 days)  
@@ -46,12 +44,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Atlantic County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

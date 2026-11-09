@@ -23,7 +23,6 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [At&g Home Inspection, LLC](https://njhomesalechecklist.com/lead/evaluators/at-g-home-inspection-llc-l00847/)
 
 88 Roosevelt Ave, #318, Carteret, NJ 07008  
-☎ [(201) 341-9966](tel:2013419966)  
 Contact: Alicia Y. Mingo
 
 DCA cert #00847, expires 2026-11-30 (expires within 60 days)  
@@ -34,7 +33,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Absolute Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/absolute-inspections-llc-l00830/)
 
 25 Bearsley Dr, East Brunswick, NJ 08816  
-☎ [(201) 323-2632](tel:2013232632)  
 Contact: Parthen S. Parikh
 
 DCA cert #00830, expires 2028-07-31  
@@ -45,7 +43,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [NJ Lead Inspections & Services](https://njhomesalechecklist.com/lead/evaluators/nj-lead-inspections-services-l00854/)
 
 7 Pitt Rd, East Brunswick, NJ 08816  
-☎ [(908) 705-4538](tel:9087054538)  
 Contact: Robert Geist
 
 DCA cert #00854, expires 2026-12-31  
@@ -56,7 +53,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [AAA Green Environmental](https://njhomesalechecklist.com/lead/evaluators/aaa-green-environmental-l00855/)
 
 159 Oakland Ave, Edison, NJ 08817  
-☎ [(848) 702-0973](tel:8487020973)  
 Contact: Anita Poon-Lam
 
 DCA cert #00855, expires 2028-03-31  
@@ -67,7 +63,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Esposito Holdings, Inc.](https://njhomesalechecklist.com/lead/evaluators/esposito-holdings-inc-l00914/)
 
 28 Meeker Ave, Edison, NJ 08817  
-☎ [(908) 540-0087](tel:9085400087)  
 Contact: Louis M. Esposito
 
 DCA cert #00914, expires 2028-05-31  
@@ -78,13 +73,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Env. Strategies & Applications](https://njhomesalechecklist.com/lead/evaluators/env-strategies-applications-l00737/)
 
 495 Union Ave, Suite 1D, Middlesex, NJ 08846  
-☎ [(732) 469-8888](tel:7324698888)  
 Contact: Christopher Martell
 
-🌐 [askesa.com](https://askesa.com/)  
-✉ [info@askesa.com](mailto:info@askesa.com)  
 Google rating 5.0 (15 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6022808064761318674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [askesa.com](https://askesa.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00737, expires 2027-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00737)
@@ -94,7 +86,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [AAA Lead, Asbestos & Mold](https://njhomesalechecklist.com/lead/evaluators/aaa-lead-asbestos-mold-l00409/)
 
 2227 US Hwy 1, Suite 123, North Brunswick, NJ 08902  
-☎ [(732) 882-5741](tel:7328825741)  
 Contact: Raymond Schroeder
 
 DCA cert #00409, expires 2028-05-31  
@@ -105,13 +96,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Aecom Technical Services, Inc.](https://njhomesalechecklist.com/lead/evaluators/aecom-technical-services-inc-l00711/)
 
 30 Knightsbridge Rd #250, Piscataway, NJ 08854  
-☎ [(732) 564-3200](tel:7325643200)  
 Contact: Mark T. Connors
 
-🌐 [aecom.com](http://www.aecom.com/)  
-✉ [ukiexternalpeopleservices@aecom.com](mailto:ukiexternalpeopleservices@aecom.com)  
 Google rating 3.5 (10 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17442318567126335082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [aecom.com](https://aecom.com/contact-us/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00711, expires 2028-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00711)
@@ -121,7 +109,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Sri Sai Enterprises, LLC](https://njhomesalechecklist.com/lead/evaluators/sri-sai-enterprises-llc-l00866/)
 
 1297 Centennial Ave # 5-305, Piscataway, NJ 08854  
-☎ [(732) 384-2068](tel:7323842068)  
 Contact: Harish J. Chauhan
 
 DCA cert #00866, expires 2027-03-31  
@@ -132,7 +119,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [American Abatement Corp](https://njhomesalechecklist.com/lead/evaluators/american-abatement-corp-l00732/)
 
 31 Dawn Dr, Port Reading, NJ 07064  
-☎ [(201) 362-1751](tel:2013621751)  
 Contact: Julio Lujan
 
 DCA cert #00732, expires 2027-08-31  
@@ -143,7 +129,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Kn & L Company, LLC](https://njhomesalechecklist.com/lead/evaluators/kn-l-company-llc-l00872/)
 
 9 Elizabeth St, Sayreville, NJ 08872  
-☎ [(201) 737-8553](tel:2017378553)  
 Contact: Lynda Okwuosa
 
 DCA cert #00872, expires 2027-04-30  
@@ -155,12 +140,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Middlesex County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

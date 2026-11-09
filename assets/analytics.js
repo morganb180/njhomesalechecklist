@@ -75,8 +75,11 @@ function fctx(f){return{form_id:fid(f),form_type:fkind(f),service:fval(f,"need")
 var ENUM=/^(need|county|type|intent)$/,fstate=[];
 function st(f){for(var i=0;i<fstate.length;i++)if(fstate[i].f===f)return fstate[i];var o={f:f,started:0,done:{},inv:{}};fstate.push(o);return o}
 function formOf(el){var f=el&&el.closest?el.closest("form"):null;return f&&fkind(f)?f:null}
-d.addEventListener("focusin",function(e){var f=formOf(e.target);if(!f)return;var s=st(f);if(s.started)return;s.started=1;track("form_start",fctx(f))},true);
-d.addEventListener("change",function(e){var el=e.target,f=formOf(el);if(!f||!el.name||el.type=="hidden"||el.name=="website"||el.name=="idem")return;var filled=el.type=="checkbox"||el.type=="radio"?el.checked:String(el.value||"").trim()!=="";if(!filled)return;var s=st(f);if(s.done[el.name])return;s.done[el.name]=1;var p=fctx(f);p.field_name=el.name;if(ENUM.test(el.name))p.field_value=String(el.value).slice(0,40);track("form_field_complete",p)},true);
+/* form_start: focusin misses some label clicks on the visually hidden service radios, so the first pointer or change starts the form too. One event either way. */
+function begin(f){var s=st(f);if(s.started)return s;s.started=1;track("form_start",fctx(f));return s}
+d.addEventListener("focusin",function(e){var f=formOf(e.target);if(f)begin(f)},true);
+d.addEventListener("pointerdown",function(e){var f=formOf(e.target);if(f)begin(f)},true);
+d.addEventListener("change",function(e){var el=e.target,f=formOf(el);if(!f||!el.name||el.type=="hidden"||el.name=="website"||el.name=="idem")return;var filled=el.type=="checkbox"||el.type=="radio"?el.checked:String(el.value||"").trim()!=="";if(!filled)return;var s=begin(f);if(s.done[el.name])return;s.done[el.name]=1;var p=fctx(f);p.field_name=el.name;if(ENUM.test(el.name))p.field_value=String(el.value).slice(0,40);track("form_field_complete",p)},true);
 d.addEventListener("invalid",function(e){var f=formOf(e.target);if(!f)return;var s=st(f),k=e.target.name||"field",t=Date.now();if(s.inv[k]&&t-s.inv[k]<3000)return;s.inv[k]=t;var p=fctx(f);p.error_type="client_validation";p.field_name=k;track("form_error",p)},true);
 d.addEventListener("submit",function(e){var f=e.target;if(!f||!f.matches||!fkind(f))return;var p=fctx(f),em=f.querySelector("[name=email]"),ph=f.querySelector("[name=phone]");p.has_email=!!(em&&em.value.trim());p.has_phone=!!(ph&&ph.value.trim());p.fields_completed=Object.keys(st(f).done).length;var tk=f.querySelector('[name="cf-turnstile-response"]');if(f.matches(LEADF))p.turnstile_ready=!!(tk&&tk.value);track("form_submit_attempt",p)},true);
 var ERR={403:"turnstile",409:"duplicate",422:"validation",429:"rate_limited",404:"no_match",502:"email_service",400:"bad_request"};

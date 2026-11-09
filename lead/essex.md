@@ -23,7 +23,6 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [NJ Lead & Compliance Services, LLC](https://njhomesalechecklist.com/lead/evaluators/nj-lead-compliance-services-llc-l00928/)
 
 29 Donald St, Bloomfield, NJ 07003  
-☎ [(610) 312-4900](tel:6103124900)  
 Contact: Alexandra Ryan
 
 DCA cert #00928, expires 2028-07-07  
@@ -34,7 +33,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Smart Choice Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/smart-choice-inspections-llc-l00790/)
 
 173 Ridge Rd, Apt H1, Cedar Grove, NJ 07009  
-☎ [(973) 500-3233](tel:9735003233)  
 Contact: Leonardo Betancor
 
 DCA cert #00790, expires 2027-10-31  
@@ -45,7 +43,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Eco-Vet Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/eco-vet-environmental-llc-l00863/)
 
 121 Brighton Ave, East Orange, NJ 07017  
-☎ [(862) 276-9836](tel:8622769836)  
 Contact: Radames Gonzalez
 
 DCA cert #00863, expires 2027-03-31  
@@ -56,7 +53,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Jayhomes LLC](https://njhomesalechecklist.com/lead/evaluators/jayhomes-llc-l00775/)
 
 162 Brookwood St, East Orange, NJ 07018  
-☎ [(973) 477-9199](tel:9734779199)  
 Contact: Orin Mingo
 
 DCA cert #00775, expires 2027-07-31  
@@ -67,12 +63,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Gza Geoenvironmental, Inc.](https://njhomesalechecklist.com/lead/evaluators/gza-geoenvironmental-inc-l00358/)
 
 55 Ln Rd, Suite 407, Fairfield, NJ 07004  
-☎ [(973) 774-3300](tel:9737743300)  
 Contact: Benjamin M. Sallemi
 
-🌐 [gza.com](https://www.gza.com/)  
 Google rating 4.0 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17002195564978696500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00358, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00358)
@@ -82,7 +76,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Tectonic Eng.& Surveying,inc.](https://njhomesalechecklist.com/lead/evaluators/tectonic-eng-surveying-inc-l00664/)
 
 33 Bleeker St, Suite 206, Millburn, NJ 07041  
-☎ [(973) 467-5850](tel:9734675850)  
 Contact: Donald A. Benvie
 
 DCA cert #00664, expires 2027-09-30  
@@ -93,7 +86,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [A Liu Company](https://njhomesalechecklist.com/lead/evaluators/a-liu-company-l00809/)
 
 10 Walnut Pkwy, Montclair, NJ 07042  
-☎ [(732) 301-4599](tel:7323014599)  
 Contact: Jing Lin
 
 DCA cert #00809, expires 2028-05-31  
@@ -104,7 +96,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Greenworks Environmental](https://njhomesalechecklist.com/lead/evaluators/greenworks-environmental-l00735/)
 
 41 Watchung Plaza, #253, Montclair, NJ 07042  
-☎ [(201) 800-3211](tel:2018003211)  
 Contact: Christian Green
 
 DCA cert #00735, expires 2027-08-31  
@@ -115,7 +106,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Aspis Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/aspis-environmental-llc-l00899/)
 
 601 15th Ave, #1, Newark, NJ 07103  
-☎ [(609) 433-6258](tel:6094336258)  
 Contact: Ewan E. Oleghe
 
 DCA cert #00899, expires 2027-12-31  
@@ -126,7 +116,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Entech Engineering of NJ](https://njhomesalechecklist.com/lead/evaluators/entech-engineering-of-nj-l00701/)
 
 One Gateway Center, Newark, NJ 07102  
-☎ [(732) 796-4792](tel:7327964792)  
 Contact: Samsudeen Arakhan
 
 DCA cert #00701, expires 2028-05-31  
@@ -137,7 +126,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Y & N Construction, LLC.](https://njhomesalechecklist.com/lead/evaluators/y-n-construction-llc-l00898/)
 
 37 Irving Ave, Newark, NJ 07112  
-☎ [(862) 236-8691](tel:8622368691)  
 Contact: Sulaimun B. Jenkins
 
 DCA cert #00898, expires 2027-10-31  
@@ -148,7 +136,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Absolute Jm Services LLC](https://njhomesalechecklist.com/lead/evaluators/absolute-jm-services-llc-l00681/)
 
 144 Elm St, Suite 6, Orange, NJ 07050  
-☎ [(862) 250-1925](tel:8622501925)  
 Contact: Johnmary Nwofe
 
 DCA cert #00681, expires 2028-06-30  
@@ -159,12 +146,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Jp2018, LLC](https://njhomesalechecklist.com/lead/evaluators/jp2018-llc-l00807/)
 
 251 Elmwynd Dr, Orange, NJ 07050  
-☎ [(973) 619-5873](tel:9736195873)  
 Contact: Jessie Phillip
 
-🌐 [jp2018llc.com](http://www.jp2018llc.com/contact)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5274184083364956484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00807, expires 2026-12-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00807)
@@ -174,7 +159,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [A-Arcalenz, LLC](https://njhomesalechecklist.com/lead/evaluators/a-arcalenz-llc-l00721/)
 
 571 Pleasant Valley Way, West Orange, NJ 07052  
-☎ [(862) 224-2356](tel:8622242356)  
 Contact: Leonard Duru
 
 DCA cert #00721, expires 2027-01-31  
@@ -186,12 +170,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Essex County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

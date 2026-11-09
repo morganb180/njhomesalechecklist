@@ -23,13 +23,10 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Four Leaf Home Inspections,llc](https://njhomesalechecklist.com/lead/evaluators/four-leaf-home-inspections-llc-l00913/)
 
 24 Brittany Ct, Atlantic Highlands, NJ 07716  
-☎ [(732) 939-0816](tel:7329390816)  
 Contact: Peter Clayton
 
-🌐 [inspect4leaf.com](https://inspect4leaf.com/)  
-✉ [fourleafhomeinspections@gmail.com](mailto:fourleafhomeinspections@gmail.com)  
 Google rating 4.9 (28 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5513511823461220846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [inspect4leaf.com](https://www.inspect4leaf.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00913, expires 2028-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00913)
@@ -39,7 +36,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Safety Environmental Co. of NY](https://njhomesalechecklist.com/lead/evaluators/safety-environmental-co-of-ny-l00447/)
 
 1 Weathervane Cir Suite B1, Cream Ridge, NJ 08514  
-☎ [(609) 208-3276](tel:6092083276)  
 Contact: Francis Owoh
 
 DCA cert #00447, expires 2028-03-31  
@@ -50,11 +46,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Optimum Environmental Services](https://njhomesalechecklist.com/lead/evaluators/optimum-environmental-services-l00897/)
 
 41 Desai Ct, Freehold, NJ 07728  
-☎ [(732) 614-5320](tel:7326145320)  
 Contact: Emmanuel Amaefuna
 
 Google rating 2.0 (1 review)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6478865647940249638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00897, expires 2027-10-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00897)
@@ -64,11 +59,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Dynamic Earth, LLC](https://njhomesalechecklist.com/lead/evaluators/dynamic-earth-llc-l00930/)
 
 1904 Main St, Lake Como, NJ 07719  
-☎ [(732) 681-0760](tel:7326810760)  
 Contact: Michael Moore
-
-☎ Google listing: [(732) 280-0830](tel:7322800830)  
-Added by us, not on the state list: phone from the firm's [Google Maps listing](https://maps.google.com/?cid=7110248604831491970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00930, expires 2028-07-13  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00930)
@@ -78,7 +69,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Ds Environmental](https://njhomesalechecklist.com/lead/evaluators/ds-environmental-l00922/)
 
 101 Beagle Dr, Manalapan, NJ 07726  
-☎ [(732) 144-1701](tel:7321441701)  
 Contact: Dan Sokolow
 
 DCA cert #00922, expires 2028-05-31  
@@ -89,13 +79,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Vanasse Hangen Brustlin, Inc.](https://njhomesalechecklist.com/lead/evaluators/vanasse-hangen-brustlin-inc-l00699/)
 
 1805 Atlantic Ave, Manasquan, NJ 08736  
-☎ [(732) 223-2225](tel:7322232225)  
 Contact: Brian R. Perry
 
-🌐 [vhb.com](https://www.vhb.com/)  
-✉ [eeo@vhb.com](mailto:eeo@vhb.com)  
 Google rating 2.0 (2 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11329284816053441993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [vhb.com](https://www.vhb.com/contact-us/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00699, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00699)
@@ -105,12 +92,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Environmental Tactics Inc.](https://njhomesalechecklist.com/lead/evaluators/environmental-tactics-inc-l00070/)
 
 64 Broad St, Matawan, NJ 07747  
-☎ [(732) 290-2217](tel:7322902217)  
 Contact: Thomas P. Geiger
 
-🌐 [envtactics.com](http://www.envtactics.com/)  
 Google rating 1.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6562461794666791222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00070, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00070)
@@ -120,11 +105,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Ger-Cor Painting Contracting](https://njhomesalechecklist.com/lead/evaluators/ger-cor-painting-contracting-l00815/)
 
 57 S Main St, Neptune, NJ 07753  
-☎ [(732) 610-9471](tel:7326109471)  
 Contact: Gerard Corbin
-
-🌐 [njdca.lead.gov](http://njdca.lead.gov/)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=5722797691570704804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00815, expires 2028-06-25  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00815)
@@ -134,7 +115,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Pinnacle Rose, LLC](https://njhomesalechecklist.com/lead/evaluators/pinnacle-rose-llc-l00906/)
 
 19 Shorebrook Cir, Neptune, NJ 07753  
-☎ [(732) 688-4544](tel:7326884544)  
 Contact: Marcia Daniel
 
 DCA cert #00906, expires 2028-01-31  
@@ -145,13 +125,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Lewis Cg, Inc](https://njhomesalechecklist.com/lead/evaluators/lewis-cg-inc-l00655/)
 
 2604 Atlantic Ave Suite 600, Wall, NJ 07719  
-☎ [(732) 276-2420](tel:7322762420)  
 Contact: Zachary D. Lewis
 
-🌐 [lcg-online.com](http://lcg-online.com/)  
-✉ [info@lcg-online.com](mailto:info@lcg-online.com)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17129024834581865899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [lcg-online.com](https://www.lcg-online.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00655, expires 2028-06-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00655)
@@ -162,12 +139,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Monmouth County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

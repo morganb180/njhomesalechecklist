@@ -1,6 +1,6 @@
 ---
 title: "Bay Hill Environmental, LLC | NJ DCA Lead Evaluation Contractor #00432"
-description: "Bay Hill Environmental, LLC, Cherry Hill, NJ: NJ DCA-certified lead evaluation contractor (cert #00432, expires 2027-01-31). Address, phone and certification details from the DCA list."
+description: "Bay Hill Environmental, LLC, Cherry Hill, NJ: NJ DCA-certified lead evaluation contractor (cert #00432, expires 2027-01-31). Address and certification details from the DCA list."
 canonical: https://njhomesalechecklist.com/lead/evaluators/bay-hill-environmental-llc-l00432/
 ---
 
@@ -12,6 +12,5 @@ canonical: https://njhomesalechecklist.com/lead/evaluators/bay-hill-environmenta
 * **Issued by:** New Jersey Department of Community Affairs (NJ DCA)
 * **Contact on DCA list:** William P. O'Donnell
 * **Address on DCA list:** 2060 Fairfax Ave, Cherry Hill, NJ 08002
-* **Phone:** (215) 284-0086
 
 Source: https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf (rev. 8/11/2026), retrieved 2026-10-12
