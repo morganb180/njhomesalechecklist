@@ -16,6 +16,7 @@
 <p class="qnav"><button type="button" class="btn qnext">Continue</button></p></fieldset>
 <fieldset class="qstep" data-step="2"><legend>Where is the property?</legend>
 <label for="g-zip">ZIP code</label><input id="g-zip" class="lf-zip" name="zip" inputmode="numeric" pattern="[0-9]{5}" maxlength="5" autocomplete="postal-code" placeholder="e.g. 07102" required>
+<p class="muted" id="countypre" hidden></p>
 <p class="muted" id="ziphint">A New Jersey ZIP. Nearby contractors are chosen when you send this form. This page does not name them yet.</p>
 <p class="qnav"><button type="button" class="btn ghost qback">Back</button><button type="button" class="btn qnext">Continue</button></p></fieldset>
 <fieldset class="qstep" data-step="3"><legend>How can they reach you?</legend>
@@ -32,12 +33,12 @@
 <p class="lf-out" role="status" aria-live="polite"></p></fieldset>
 </form>
 <aside class="qpanel" id="qpanel" aria-label="What happens to your request"><h2>Your request so far</h2><div id="qsum"><p class="muted">Nothing entered yet.</p></div>
-<h2>Who will receive it</h2><p id="qrec">We connect you with up to 3 nearby NJ DCA-certified lead evaluation contractors. They contact you directly. They are chosen when you send this form. If you came from a contractor's listing, that contractor is one of them. You will see the names on the next screen. Contractors can't pay to be picked.</p>
+<h2>Who will receive it</h2><p id="qrec">We connect you with up to 3 nearby NJ DCA-certified lead evaluation contractors. They contact you directly. They are chosen when you send this form. A listing you were reading is not reserved unless the button named that contractor. You will see the names on the next screen. Contractors can't pay to be picked.</p>
 <details class="qmore" open><summary>What happens to your info</summary><ul class="qpriv">
 <li>We connect you with up to 3 nearby NJ DCA-certified lead evaluation contractors. They contact you directly.</li>
 <li>They receive your name, the contact details you submit, the ZIP code, the service and any note.</li>
 <li>An email address is required so they can reach you. Phone is optional.</li>
-<li>If you opened one contractor's listing, that contractor is included, plus up to 2 others nearby. The others are not named until you send the form.</li>
+<li>If the button named one contractor, that contractor is included, plus up to 2 others nearby. A button that names a county does not reserve the listing you were reading. The contractors are not named until you send the form.</li>
 <li>You see the names on the next screen.</li>
 <li>We keep a copy of the request to run the service. We don't sell it.</li>
 <li>Home-sale tips and offers only if you check the optional box.</li>

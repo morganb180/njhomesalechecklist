@@ -66,6 +66,11 @@
     var b=el.parentNode.querySelector("b");
     return b?b.textContent:el.value;
   }
+  var COUNTIES={"atlantic":"Atlantic","bergen":"Bergen","burlington":"Burlington","camden":"Camden","cape-may":"Cape May","cumberland":"Cumberland","essex":"Essex","gloucester":"Gloucester","hudson":"Hudson","hunterdon":"Hunterdon","mercer":"Mercer","middlesex":"Middlesex","monmouth":"Monmouth","morris":"Morris","ocean":"Ocean","passaic":"Passaic","salem":"Salem","somerset":"Somerset","sussex":"Sussex","union":"Union","warren":"Warren"};
+  function countyLabel(){
+    var slug=(new URLSearchParams(location.search).get("county")||"").toLowerCase();
+    return COUNTIES[slug]?COUNTIES[slug]+" County":"";
+  }
   function firmName(){
     var id=(field("firm")||{}).value||"";
     var row=id&&window.NET_FIRMS&&NET_FIRMS[id];
@@ -74,16 +79,19 @@
   function whoText(){
     var fn=firmName();
     if(fn)return "We connect you with "+fn+" and up to 2 other nearby NJ DCA-certified lead evaluation contractors. They contact you directly. The others are chosen when you send this form, and their names appear on the next screen. Contractors can't pay to be picked.";
-    return "We connect you with up to 3 nearby NJ DCA-certified lead evaluation contractors. They contact you directly. They are chosen when you send this form. If you came from a contractor's listing, that contractor is one of them. You will see the names on the next screen. Contractors can't pay to be picked.";
+    var where=countyLabel();
+    return "We connect you with up to 3 nearby NJ DCA-certified lead evaluation contractors"+(where?" in "+where:"")+". They contact you directly. They are chosen when you send this form. A listing you were reading is not reserved. You will see the names on the next screen. Contractors can't pay to be picked.";
   }
   function buttonText(){
     var fn=firmName();
     if(fn)return "We connect you with "+fn+" and up to 2 other nearby NJ DCA-certified lead evaluation contractors. They contact you directly. NJ Home Sale Checklist is a directory, not a contractor. No obligation to hire.";
-    return "We connect you with up to 3 nearby NJ DCA-certified lead evaluation contractors. They contact you directly. Their names appear on the next screen. NJ Home Sale Checklist is a directory, not a contractor. No obligation to hire.";
+    var where=countyLabel();
+    return "We connect you with up to 3 nearby NJ DCA-certified lead evaluation contractors"+(where?" in "+where:"")+". They contact you directly. Their names appear on the next screen. This does not reserve one listing. NJ Home Sale Checklist is a directory, not a contractor. No obligation to hire.";
   }
   function render(){
     var rows=[];
     var need=needLabel();if(need)rows.push(["Service",need]);
+    var county=countyLabel();if(county)rows.push(["County",county]);
     var zip=(field("zip")||{}).value||"";if(zip)rows.push(["ZIP",zip]);
     var name=(field("name")||{}).value||"";if(name)rows.push(["Name",name]);
     var sum=document.getElementById("qsum");
@@ -112,6 +120,8 @@
   });
   var more=document.querySelector(".qmore");
   if(more&&window.matchMedia("(max-width:900px)").matches)more.open=false;
+  var pre=document.getElementById("countypre");
+  if(pre&&countyLabel()){pre.hidden=false;pre.textContent="Starting in "+countyLabel()+". Nearby contractors are chosen when you send this form. This does not reserve a listing you were reading.";}
   show(on(),false);
   render();
 })();

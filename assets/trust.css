@@ -212,6 +212,7 @@ body:has(#i-unsure:checked) .fnote [data-i~="unsure"]{display:inline}
 .logo .wn{font-size:1.02rem;letter-spacing:-.03em}
 .rows .bar i,.bar i,.rows .bar i.h,.rows .bar i.vh{background:var(--trust-brand)}
 .toc a{display:inline-block;padding:6px 2px;line-height:1.35}
+.card .fcta .qbtn,.firm .fcta .qbtn{white-space:normal;text-align:center;height:auto;line-height:1.3}
 @media (max-width:640px){
   .finder .intent{grid-template-columns:repeat(3,minmax(0,1fr))}
   .hero{padding:20px 0 8px}
