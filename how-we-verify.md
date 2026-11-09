@@ -16,7 +16,7 @@ Lead evaluation contractor listings come from the NJ Department of Community Aff
 ## What we don't verify
 
 * Workmanship, prices, insurance or availability.
-* Phone numbers, websites, ratings and emails we added from Google Maps listings and firm websites (labelled on each card). We match them carefully, but they are not part of the official record.
+* Google ratings shown on a card (retrieved 2026-10-30). They are not part of the DCA record. Phone numbers, email addresses and websites are not published.
 
 ## Corrections
 

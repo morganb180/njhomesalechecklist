@@ -23,11 +23,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Ts Delta, Inc](https://njhomesalechecklist.com/lead/evaluators/ts-delta-inc-l00795/)
 
 7 Lehigh Ave, Clifton, NJ 07012  
-☎ [(201) 741-3736](tel:2017413736)  
 Contact: Wieslaw Kutyla
-
-🌐 [tsdelta.com](https://www.tsdelta.com/)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=1298241481987437302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 DCA cert #00795, expires 2028-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00795)
@@ -37,7 +33,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [A1 Environmental Inspections](https://njhomesalechecklist.com/lead/evaluators/a1-environmental-inspections-l00867/)
 
 463 Main St, Suite 1R #1018, Little Falls, NJ 07424  
-☎ [(973) 960-1192](tel:9739601192)  
 Contact: Kaity Rodriguez
 
 DCA cert #00867, expires 2027-04-30  
@@ -48,7 +43,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Pro Vista Home Inspections](https://njhomesalechecklist.com/lead/evaluators/pro-vista-home-inspections-l00808/)
 
 20 Ascension St, Passaic, NJ 07055  
-☎ [(862) 232-9372](tel:8622329372)  
 Contact: Blanca Ducos
 
 DCA cert #00808, expires 2028-05-31  
@@ -59,7 +53,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Skyline Environmental Services](https://njhomesalechecklist.com/lead/evaluators/skyline-environmental-services-l00754/)
 
 323 Skyline Dr, Ringwood, NJ 07456  
-☎ [(862) 684-0094](tel:8626840094)  
 Contact: Joseph Cierech
 
 DCA cert #00754, expires 2027-04-30  
@@ -70,13 +63,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Efi Global, Inc.](https://njhomesalechecklist.com/lead/evaluators/efi-global-inc-l00716/)
 
 11 Commerce Way, Suite A, Totowa, NJ 07512  
-☎ [(732) 629-7930](tel:7326297930)  
 Contact: Paul W. Schaefer
 
-🌐 [efiglobal.com](http://www.efiglobal.com/)  
-✉ [marketing@efiglobal.com](mailto:marketing@efiglobal.com)  
 Google rating 5.0 (2 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7579593716738319247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [efiglobal.com](https://www.efiglobal.com/emerging-pfas-risks-what-you-need-to-know-about-airborne-exposure/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00716, expires 2026-10-31 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00716)
@@ -86,12 +76,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Mandell Lead Inspectors, Inc.](https://njhomesalechecklist.com/lead/evaluators/mandell-lead-inspectors-inc-l00076/)
 
 409 Minnisink Rd, Suite 204, Totowa, NJ 07512  
-☎ [(973) 785-7574](tel:9737857574)  
 Contact: Stuart Casciano
 
-🌐 [mandellenvironmental.com](https://www.mandellenvironmental.com/)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13910480545350311531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00076, expires 2027-08-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00076)
@@ -101,12 +89,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Homelogic Inspection Services](https://njhomesalechecklist.com/lead/evaluators/homelogic-inspection-services-l00788/)
 
 7 Alden Pl, Wayne, NJ 07470  
-☎ [(201) 477-8573](tel:2014778573)  
 Contact: Michael J. Damato
 
-🌐 [homelogicinspections.com](https://homelogicinspections.com/)  
 Google rating 4.8 (26 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=781212350575562275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00788, expires 2028-01-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00788)
@@ -116,7 +102,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Knox Home Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/knox-home-inspections-llc-l00753/)
 
 620 Otterhole Rd, West Milford, NJ 07480  
-☎ [(973) 800-4063](tel:9738004063)  
 Contact: Alexander Knox
 
 DCA cert #00753, expires 2027-05-31  
@@ -128,12 +113,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Passaic County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

@@ -23,7 +23,6 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Environmental Testing Services](https://njhomesalechecklist.com/lead/evaluators/environmental-testing-services-l00531/)
 
 619 Wills Ave, Deptford, NJ 08096  
-☎ [(215) 783-7261](tel:2157837261)  
 Contact: Michael Stefkovic
 
 DCA cert #00531, expires 2027-01-31  
@@ -34,7 +33,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Three Rivers Environmental](https://njhomesalechecklist.com/lead/evaluators/three-rivers-environmental-l00911/)
 
 35 Hickory Ridge Ct, Mullica Hill, NJ 08062  
-☎ [(856) 434-4975](tel:8564344975)  
 Contact: Matthew Scott
 
 DCA cert #00911, expires 2028-03-31  
@@ -45,7 +43,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Fig Environmental](https://njhomesalechecklist.com/lead/evaluators/fig-environmental-l00846/)
 
 8 Tranquility Ct, Sewell, NJ 08080  
-☎ [(856) 553-6162](tel:8565536162)  
 Contact: Janae Fiorelli
 
 DCA cert #00846, expires 2026-11-30 (expires within 60 days)  
@@ -56,7 +53,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Ingt Lead Swipe, LLC](https://njhomesalechecklist.com/lead/evaluators/ingt-lead-swipe-llc-l00723/)
 
 24 Derby Rd, Swedesboro, NJ 08085  
-☎ [(609) 828-0479](tel:6098280479)  
 Contact: Michael B. Kogut
 
 DCA cert #00723, expires 2027-03-31  
@@ -68,12 +64,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Gloucester County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

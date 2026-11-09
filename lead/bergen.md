@@ -23,12 +23,7 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Guardian Home Services, LLC](https://njhomesalechecklist.com/lead/evaluators/guardian-home-services-llc-l00793/)
 
 31 Union Ave, Cresskill, NJ 07626  
-☎ [(201) 568-2209](tel:2015682209)  
 Contact: Sean F. Campbell
-
-🌐 [guardianhome.net](http://www.guardianhome.net/)  
-✉ [info@guardianhome.net](mailto:info@guardianhome.net)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=2411244089177875210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [guardianhome.net](https://www.guardianhome.net/), retrieved 2026-10-30.
 
 DCA cert #00793, expires 2028-06-29  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00793)
@@ -38,7 +33,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Fast Track Home Inspectors,llc](https://njhomesalechecklist.com/lead/evaluators/fast-track-home-inspectors-llc-l00762/)
 
 116 Bellaire Dr, Demarest, NJ 07627  
-☎ [(201) 665-3333](tel:2016653333)  
 Contact: Anthony Costanzo
 
 DCA cert #00762, expires 2027-08-31  
@@ -49,13 +43,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Prime Environmental NJ, LLC](https://njhomesalechecklist.com/lead/evaluators/prime-environmental-nj-llc-l00917/)
 
 168 Humboldt St, East Rutherford, NJ 07073  
-☎ [(732) 242-1042](tel:7322421042)  
 Contact: Korab Ibrahimaj
 
-🌐 [primeenvironmental.co](https://primeenvironmental.co/)  
-✉ [primeenvironmentalnj@gmail.com](mailto:primeenvironmentalnj@gmail.com)  
 Google rating 5.0 (23 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15788480201052634445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [primeenvironmental.co](https://primeenvironmental.co/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00917, expires 2028-04-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00917)
@@ -65,14 +56,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [I Home Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/i-home-inspections-llc-l00765/)
 
 190 Sylvan Ave, Suite D1, Englewood Cliffs, NJ 07632  
-☎ [(201) 503-5577](tel:2015035577)  
 Contact: Wan Soo Jeong
 
-☎ Google listing: [(201) 359-0777](tel:2013590777)  
-🌐 [besthomeinspectionsnj.com](http://www.besthomeinspectionsnj.com/)  
-✉ [ihome0777@gmail.com](mailto:ihome0777@gmail.com)  
 Google rating 4.8 (133 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18287890205796211030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [besthomeinspectionsnj.com](https://www.besthomeinspectionsnj.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00765, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00765)
@@ -82,7 +69,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Djp Lead, LLC](https://njhomesalechecklist.com/lead/evaluators/djp-lead-llc-l00885/)
 
 4-02 Fair Lawn Ave, Fair Lawn, NJ 07410  
-☎ [(862) 226-6657](tel:8622266657)  
 Contact: Dominic J. Pascucci
 
 DCA cert #00885, expires 2027-07-31  
@@ -93,7 +79,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Gls Inspections LLC](https://njhomesalechecklist.com/lead/evaluators/gls-inspections-llc-l00696/)
 
 41-15 Elaine Ter, Fair Lawn, NJ 07410  
-☎ [(201) 988-1995](tel:2019881995)  
 Contact: Gabriel Silberman
 
 DCA cert #00696, expires 2027-09-30  
@@ -104,12 +89,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Aim Environmental LLC](https://njhomesalechecklist.com/lead/evaluators/aim-environmental-llc-l00693/)
 
 2460 Lemoine Ave, Suite 503, Fort Lee, NJ 07024  
-☎ [(201) 528-5047](tel:2015285047)  
 Contact: Igor Martirosian
-
-🌐 [aimenvironment.com](http://aimenvironment.com/contact-us/)  
-✉ [info@aimenvironment.com](mailto:info@aimenvironment.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=16816495953442336619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [aimenvironment.com](https://aimenvironment.com/contact-us/), retrieved 2026-10-30.
 
 DCA cert #00693, expires 2027-01-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00693)
@@ -119,12 +99,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [S.A Barcia Inspections LLC](https://njhomesalechecklist.com/lead/evaluators/s-a-barcia-inspections-llc-l00656/)
 
 341 Park St 2FLR, Hackensack, NJ 07601  
-☎ [(201) 487-5005](tel:2014875005)  
 Contact: Barcia Stephen
 
-🌐 [barciaenvironmental.net](http://barciaenvironmental.net/)  
 Google rating 5.0 (21 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3240976809485326750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00656, expires 2027-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00656)
@@ -134,13 +112,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Veriguard Home Inspections,llc](https://njhomesalechecklist.com/lead/evaluators/veriguard-home-inspections-llc-l00871/)
 
 31 Fairmount Ave, Hackensack, NJ 07601  
-☎ [(201) 790-8736](tel:2017908736)  
 Contact: Philip A. Vitanzo
 
-🌐 [veriguardhomeinspections.com](https://veriguardhomeinspections.com/)  
-✉ [info@veriguardhomeinspections.com](mailto:info@veriguardhomeinspections.com)  
 Google rating 5.0 (387 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=759935570759783270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [veriguardhomeinspections.com](https://veriguardhomeinspections.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00871, expires 2027-04-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00871)
@@ -150,7 +125,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Lead Paint Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/lead-paint-inspections-llc-l00763/)
 
 26 Whitman Pl, Hillsdale, NJ 07642  
-☎ [(201) 522-3204](tel:2015223204)  
 Contact: Thomas Moore
 
 DCA cert #00763, expires 2027-08-31  
@@ -161,13 +135,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [McCabe Environmental Services](https://njhomesalechecklist.com/lead/evaluators/mccabe-environmental-services-l00338/)
 
 464 Valley Brook Ave, Lyndhurst, NJ 07071  
-☎ [(201) 438-4839](tel:2014384839)  
 Contact: John Chiaviello
 
-🌐 [mccabeenv.com](http://www.mccabeenv.com/)  
-✉ [info@mccabeenv.com](mailto:info@mccabeenv.com)  
 Google rating 4.7 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9802119026341638335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mccabeenv.com](https://www.mccabeenv.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00338, expires 2027-08-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00338)
@@ -177,13 +148,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Tadco Engineering](https://njhomesalechecklist.com/lead/evaluators/tadco-engineering-l00551/)
 
 1099 Wall St West, Lyndhurst, NJ 07071  
-☎ [(201) 222-5322](tel:2012225322)  
 Contact: Safwat Tadrous
 
-🌐 [tadcosolutions.com](https://tadcosolutions.com/)  
-✉ [connect@tadcosolutions.com](mailto:connect@tadcosolutions.com)  
 Google rating 4.8 (18 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6120007854119647848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [tadcosolutions.com](https://tadcosolutions.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00551, expires 2028-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00551)
@@ -193,7 +161,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Tajes Environmental Services](https://njhomesalechecklist.com/lead/evaluators/tajes-environmental-services-l00879/)
 
 514 Fern Ave, Lyndhurst, NJ 07071  
-☎ [(201) 705-6346](tel:2017056346)  
 Contact: Manuel J. Quintela
 
 DCA cert #00879, expires 2027-04-30  
@@ -204,13 +171,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Proactive Environmental](https://njhomesalechecklist.com/lead/evaluators/proactive-environmental-l00776/)
 
 7 N Bayard Ln, Mahwah, NJ 07430  
-☎ [(201) 424-1566](tel:2014241566)  
 Contact: Jeffrey J. Desimone
 
-🌐 [proactivehome.com](http://www.proactivehome.com/locations.html)  
-✉ [jeff@proactivehome.com](mailto:jeff@proactivehome.com)  
 Google rating 4.3 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=341749042674914968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [proactivehome.com](https://www.proactivehome.com/locations.html), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00776, expires 2028-02-28  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00776)
@@ -220,12 +184,7 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Stateline Home Inspection, LLC](https://njhomesalechecklist.com/lead/evaluators/stateline-home-inspection-llc-l00785/)
 
 9 Magnolia Ave, Montvale, NJ 07645  
-☎ [(201) 390-4912](tel:2013904912)  
 Contact: Yahya I. Abbassi
-
-🌐 [statelinehomeinspection.com](https://www.statelinehomeinspection.com/contact-us/)  
-✉ [statelinehome@optonline.net](mailto:statelinehome@optonline.net)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=935266497102762936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [statelinehomeinspection.com](https://www.statelinehomeinspection.com/contact-us/), retrieved 2026-10-30.
 
 DCA cert #00785, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00785)
@@ -235,7 +194,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Lek Environmental](https://njhomesalechecklist.com/lead/evaluators/lek-environmental-l00925/)
 
 28 E Palisades Blvd, #21, Palisades Park, NJ 07650  
-☎ [(914) 314-4248](tel:9143144248)  
 Contact: Alex Kovovic
 
 DCA cert #00925, expires 2028-05-31  
@@ -246,13 +204,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Icu Home Inspection, LLC](https://njhomesalechecklist.com/lead/evaluators/icu-home-inspection-llc-l00779/)
 
 667 Woodside Ave, River Vale, NJ 07675  
-☎ [(201) 213-3480](tel:2012133480)  
 Contact: Suzanne Greco
 
-☎ Google listing: [(609) 200-0094](tel:6092000094)  
-🌐 [icuhomeinspection.com](http://icuhomeinspection.com/)  
 Google rating 4.9 (216 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4362832882126853508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00779, expires 2028-06-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00779)
@@ -262,13 +217,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Mkm NJ Inc](https://njhomesalechecklist.com/lead/evaluators/mkm-nj-inc-l00870/)
 
 151 W Passaic St, Rochelle Park, NJ 07662  
-☎ [(212) 508-9777](tel:2125089777)  
 Contact: George Nadirashvili
 
-🌐 [mkmenv.com](https://mkmenv.com/)  
-✉ [info@mkmenv.com](mailto:info@mkmenv.com)  
 Google rating 5.0 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13786686250128463990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mkmenv.com](https://mkmenv.com/contact/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00870, expires 2027-04-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00870)
@@ -278,13 +230,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Boswell Incorporated](https://njhomesalechecklist.com/lead/evaluators/boswell-incorporated-l00810/)
 
 330 Phillips Ave, South Hackensack, NJ 07606  
-☎ [(201) 373-8906](tel:2013738906)  
 Contact: Samson Kupferberg
 
-☎ Google listing: [(201) 641-0770](tel:2016410770)  
-🌐 [boswellengineering.com](http://www.boswellengineering.com/)  
 Google rating 3.8 (17 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17449701806108790784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00810, expires 2028-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00810)
@@ -294,7 +243,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Omega Env. Services, Inc.](https://njhomesalechecklist.com/lead/evaluators/omega-env-services-inc-l00120/)
 
 280 Huyler St, South Hackensack, NJ 07606  
-☎ [(201) 489-8700](tel:2014898700)  
 Contact: Gary J. Mellor
 
 DCA cert #00120, expires 2027-08-31  
@@ -305,7 +253,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Point Enviro, LLC](https://njhomesalechecklist.com/lead/evaluators/point-enviro-llc-l00729/)
 
 55 Maple Ave, Unit 2, Wallington, NJ 07057  
-☎ [(201) 690-7008](tel:2016907008)  
 Contact: George Dawli
 
 DCA cert #00729, expires 2027-05-31  
@@ -317,12 +264,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Bergen County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

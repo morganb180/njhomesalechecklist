@@ -23,13 +23,10 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Eikon Planning & Design, LLC](https://njhomesalechecklist.com/lead/evaluators/eikon-planning-design-llc-l00849/)
 
 221 High St, Hackettstown, NJ 07840  
-☎ [(908) 813-2323](tel:9088132323)  
 Contact: Glenn P. Brukardt
 
-🌐 [eikonplanning.com](https://www.eikonplanning.com/)  
-✉ [eikonplanning@gmail.com](mailto:eikonplanning@gmail.com)  
 Google rating 2.3 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17132693579917496504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [eikonplanning.com](https://www.eikonplanning.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00849, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00849)
@@ -39,7 +36,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Saturno Environmental Testing](https://njhomesalechecklist.com/lead/evaluators/saturno-environmental-testing-l00859/)
 
 114 Bullman St, Phillipsburg, NJ 08865  
-☎ [(347) 892-5148](tel:3478925148)  
 Contact: Yerani Maria H. de Rosado
 
 DCA cert #00859, expires 2027-02-28  
@@ -50,7 +46,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Stateline Lead Inspections](https://njhomesalechecklist.com/lead/evaluators/stateline-lead-inspections-l00817/)
 
 277 N Main St, Phillipsburg, NJ 08865  
-☎ [(908) 827-1315](tel:9088271315)  
 Contact: Badway P. Karam
 
 DCA cert #00817, expires 2028-07-07  
@@ -61,7 +56,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Daset Home Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/daset-home-inspections-llc-l00773/)
 
 317 Jessamine Ln, Stewartsville, NJ 08886  
-☎ [(908) 954-8946](tel:9089548946)  
 Contact: Daniel Medina
 
 DCA cert #00773, expires 2027-12-31  
@@ -72,7 +66,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Heartland Environmental Svcs.](https://njhomesalechecklist.com/lead/evaluators/heartland-environmental-svcs-l00758/)
 
 76 Bryan Rd, Washington, NJ 07882  
-☎ [(908) 619-8755](tel:9086198755)  
 Contact: Edward M. Novak III
 
 DCA cert #00758, expires 2027-03-31  
@@ -84,12 +77,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Warren County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

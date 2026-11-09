@@ -58,6 +58,7 @@ Allow: /
 
 User-agent: *
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Disallow: /data/
 Allow: /
 
 Sitemap: https://njhomesalechecklist.com/sitemap.xml

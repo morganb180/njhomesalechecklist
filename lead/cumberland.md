@@ -23,7 +23,6 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [American Env of Southern NJ](https://njhomesalechecklist.com/lead/evaluators/american-env-of-southern-nj-l00210/)
 
 53 Albertson Ave, Bridgeton, NJ 08302  
-☎ [(856) 451-1344](tel:8564511344)  
 Contact: Edward Rivera
 
 DCA cert #00210, expires 2027-09-30  
@@ -34,7 +33,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Zitro Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/zitro-environmental-llc-l00851/)
 
 1 Slade Ln, Bridgeton, NJ 08302  
-☎ [(856) 392-3142](tel:8563923142)  
 Contact: Anthony Ortiz
 
 DCA cert #00851, expires 2026-12-31  
@@ -45,7 +43,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [G-Air, LLC](https://njhomesalechecklist.com/lead/evaluators/g-air-llc-l00769/)
 
 963 Ye Greate St, Greenwich, NJ 08323  
-☎ [(856) 459-9300](tel:8564599300)  
 Contact: Gary D. Albert
 
 DCA cert #00769, expires 2027-04-30  
@@ -56,7 +53,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [1 All American Lead Services](https://njhomesalechecklist.com/lead/evaluators/1-all-american-lead-services-l00883/)
 
 2124 N 2nd St, #1008, Millville, NJ 08332  
-☎ [(609) 319-3149](tel:6093193149)  
 Contact: Marissa Peterson
 
 DCA cert #00883, expires 2027-07-31  
@@ -67,7 +63,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Side By Side Mro](https://njhomesalechecklist.com/lead/evaluators/side-by-side-mro-l00747/)
 
 2236 Vine Rd, Vineland, NJ 08361  
-☎ [(856) 701-6462](tel:8567016462)  
 Contact: Drew Side
 
 DCA cert #00747, expires 2027-05-31  
@@ -79,12 +74,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Cumberland County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

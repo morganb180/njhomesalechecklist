@@ -23,7 +23,6 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Malco Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/malco-environmental-llc-l00845/)
 
 24 Lincoln Ave West, Cranford, NJ 07016  
-☎ [(732) 513-3487](tel:7325133487)  
 Contact: Jennifer Gomes
 
 DCA cert #00845, expires 2026-11-30 (expires within 60 days)  
@@ -34,12 +33,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Abated, LLC](https://njhomesalechecklist.com/lead/evaluators/abated-llc-l00806/)
 
 111 Clark Pl, Elizabeth, NJ 07206  
-☎ [(908) 372-8375](tel:9083728375)  
 Contact: Ryan J. Passos
 
-🌐 [abatednj.com](https://www.abatednj.com/)  
 Google rating 5.0 (22 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=889773507226138203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00806, expires 2028-06-22  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00806)
@@ -49,13 +46,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Cut Above Insp. & Testing, LLC](https://njhomesalechecklist.com/lead/evaluators/cut-above-insp-testing-llc-l00739/)
 
 371 Johnson Ave, Apt C-7, Elizabeth, NJ 07202  
-☎ [(908) 845-3353](tel:9088453353)  
 Contact: Keri-Dean Scarlett
 
-🌐 [cutaboveiandt.com](http://cutaboveiandt.com/)  
-✉ [keris@cutaboveiandt.com](mailto:keris@cutaboveiandt.com)  
 Google rating 5.0 (41 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15196395136134477866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [cutaboveiandt.com](https://www.cutaboveiandt.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00739, expires 2027-03-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00739)
@@ -65,7 +59,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Pledge Environmental, LLC](https://njhomesalechecklist.com/lead/evaluators/pledge-environmental-llc-l00862/)
 
 648 Newark Ave, Elizabeth, NJ 07208  
-☎ [(609) 208-5535](tel:6092085535)  
 Contact: Saheed A. Adeyeri
 
 DCA cert #00862, expires 2027-02-28  
@@ -76,7 +69,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [A. Paul Contracting Corp.](https://njhomesalechecklist.com/lead/evaluators/a-paul-contracting-corp-l00719/)
 
 293 Shelton Ter, Hillside, NJ 07205  
-☎ [(973) 705-9555](tel:9737059555)  
 Contact: Louis A. Paul
 
 DCA cert #00719, expires 2026-11-30 (expires within 60 days)  
@@ -87,13 +79,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Brink's Tank & Env. Services](https://njhomesalechecklist.com/lead/evaluators/brink-s-tank-env-services-l00770/)
 
 1256 Liberty Ave, Hillside, NJ 07205  
-☎ [(844) 462-7465](tel:8444627465)  
 Contact: Ron Brink
 
-☎ Google listing: [(908) 964-6534](tel:9089646534)  
-🌐 [brinkstankservices.com](http://www.brinkstankservices.com/)  
 Google rating 3.7 (99 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14480113406018276983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00770, expires 2027-10-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00770)
@@ -103,7 +92,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Safeway Home Inspections, LLC](https://njhomesalechecklist.com/lead/evaluators/safeway-home-inspections-llc-l00860/)
 
 105 Union Ave, New Providence, NJ 07974  
-☎ [(908) 447-9445](tel:9084479445)  
 Contact: Michael R. Czar
 
 DCA cert #00860, expires 2027-02-28  
@@ -114,7 +102,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Ade Environmental Services,llc](https://njhomesalechecklist.com/lead/evaluators/ade-environmental-services-llc-l00850/)
 
 44 Fairview Ave, North Plainfield, NJ 07060  
-☎ [(908) 548-7180](tel:9085487180)  
 Contact: Adedotun L. Osho
 
 DCA cert #00850, expires 2026-11-30 (expires within 60 days)  
@@ -125,7 +112,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Roots Inspection Services, LLC](https://njhomesalechecklist.com/lead/evaluators/roots-inspection-services-llc-l00900/)
 
 1070 Cooper Rd, Scotch Plains, NJ 07076  
-☎ [(908) 917-9928](tel:9089179928)  
 Contact: William A. Root
 
 DCA cert #00900, expires 2027-11-30  
@@ -136,12 +122,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Hillmann Consulting, LLC](https://njhomesalechecklist.com/lead/evaluators/hillmann-consulting-llc-l00101/)
 
 1600 Route 22 E Suite 107, Union, NJ 07083  
-☎ [(908) 688-7800](tel:9086887800)  
 Contact: Geralanne Maglione
 
-🌐 [hillmannconsulting.com](http://www.hillmannconsulting.com/)  
 Google rating 4.6 (13 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4715743392688422194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00101, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00101)
@@ -151,14 +135,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Iris Environmetal Laboratories](https://njhomesalechecklist.com/lead/evaluators/iris-environmetal-laboratories-l00738/)
 
 2333 US Hwy 22W. Bldg.4, Union, NJ 07083  
-☎ [(908) 206-0073](tel:9082060073)  
 Contact: Ricardo Eustaquio
 
-☎ Google listing: [(866) 311-1534](tel:8663111534)  
-🌐 [irislaboratories.com](http://www.irislaboratories.com/)  
-✉ [support@irislaboratories.com](mailto:support@irislaboratories.com)  
 Google rating 4.9 (689 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2526607286540525401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [irislaboratories.com](https://www.irislaboratories.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00738, expires 2027-05-31  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00738)
@@ -168,13 +148,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Optimum Environmental Solution](https://njhomesalechecklist.com/lead/evaluators/optimum-environmental-solution-l00627/)
 
 2717 Linwood Rd, Union, NJ 07083  
-☎ [(908) 418-2737](tel:9084182737)  
 Contact: Emmanuel O Chiobi
 
-🌐 [optimumenviron.com](http://optimumenviron.com/)  
-✉ [optimumenvironmental@gmail.com](mailto:optimumenvironmental@gmail.com)  
 Google rating 3.7 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7240074723242807081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [optimumenviron.com](https://www.optimumenviron.com/form__map), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00627, expires 2026-10-31 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00627)
@@ -184,7 +161,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [ABC Environmental Services,llc](https://njhomesalechecklist.com/lead/evaluators/abc-environmental-services-llc-l00823/)
 
 1515 Route 22 W, Suite 1027, Watchung, NJ 07069  
-☎ [(908) 616-5016](tel:9086165016)  
 Contact: Samseketha Cooper
 
 DCA cert #00823, expires 2028-07-13  
@@ -196,12 +172,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Union County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 

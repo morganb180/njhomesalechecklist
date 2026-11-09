@@ -23,12 +23,10 @@ NJ requires lead-safe certification inspections of most pre-1978 rental units at
 ### [Atlas Technical Consultants](https://njhomesalechecklist.com/lead/evaluators/atlas-technical-consultants-l00028/)
 
 3 Terri Ln, Suite 4, Burlington, NJ 08016  
-☎ [(609) 386-8800](tel:6093868800)  
 Contact: John Lutz
 
-🌐 [oneatlas.com](https://www.oneatlas.com/)  
 Google rating 5.0 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8319589006810624087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00028, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00028)
@@ -38,7 +36,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Smart Business Strategies](https://njhomesalechecklist.com/lead/evaluators/smart-business-strategies-l00820/)
 
 60 Anthony Dr, Burlington, NJ 08016  
-☎ [(609) 556-0921](tel:6095560921)  
 Contact: R. Christopher Strack
 
 DCA cert #00820, expires 2026-10-31 (expires within 60 days)  
@@ -49,7 +46,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Actlien Property Management](https://njhomesalechecklist.com/lead/evaluators/actlien-property-management-l00909/)
 
 901 Park Ave, Hainesport, NJ 08036  
-☎ [(215) 939-1803](tel:2159391803)  
 Contact: Adam Taki
 
 DCA cert #00909, expires 2028-02-28  
@@ -60,7 +56,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [River Bank Properties, LLC](https://njhomesalechecklist.com/lead/evaluators/river-bank-properties-llc-l00772/)
 
 720 Rancocas Ave, Hainesport, NJ 08036  
-☎ [(856) 313-1194](tel:8563131194)  
 Contact: Jeffrey P. Fagerstrom
 
 DCA cert #00772, expires 2027-06-30  
@@ -71,13 +66,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Envirosure Inc.](https://njhomesalechecklist.com/lead/evaluators/envirosure-inc-l00868/)
 
 750 Route 73, Suite 206, Marlton, NJ 08053  
-☎ [(732) 741-1110](tel:7327411110)  
 Contact: Scott Smith
 
-🌐 [envirosureinc.com](http://envirosureinc.com/)  
-✉ [info@envirosureinc.com](mailto:info@envirosureinc.com)  
 Google rating 5.0 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7377519188263434748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [envirosureinc.com](https://envirosureinc.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00868, expires 2027-04-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00868)
@@ -87,7 +79,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Rrp Lead Solutions, LLC](https://njhomesalechecklist.com/lead/evaluators/rrp-lead-solutions-llc-l00861/)
 
 532 Old Marlton Pike W, Marlton, NJ 08053  
-☎ [(856) 840-3029](tel:8568403029)  
 Contact: Peter Hilerio
 
 DCA cert #00861, expires 2027-02-28  
@@ -98,12 +89,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Tess Environmental Services](https://njhomesalechecklist.com/lead/evaluators/tess-environmental-services-l00789/)
 
 532 Old Marlton Pike, Suite 113, Marlton, NJ 08053  
-☎ [(856) 595-0888](tel:8565950888)  
 Contact: Tae Son
 
-🌐 [tessenvironmentalservice.com](https://tessenvironmentalservice.com/)  
 Google rating 5.0 (30 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16789626485878518883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00789, expires 2027-11-30  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00789)
@@ -113,12 +102,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Tti Environmental, Inc.](https://njhomesalechecklist.com/lead/evaluators/tti-environmental-inc-l00013/)
 
 1253 N Church St, Moorestown, NJ 08057  
-☎ [(856) 840-8800](tel:8568408800)  
 Contact: Timothy Popp
 
-🌐 [ttienvinc.com](http://www.ttienvinc.com/)  
 Google rating 3.8 (14 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15799193764880961217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00013, expires 2026-11-30 (expires within 60 days)  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00013)
@@ -128,7 +115,6 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Umoren Inc.](https://njhomesalechecklist.com/lead/evaluators/umoren-inc-l00733/)
 
 16 Lancashire Dr, Mount Holly, NJ 08060  
-☎ [(732) 713-3142](tel:7327133142)  
 Contact: Peter Umoren
 
 DCA cert #00733, expires 2027-08-31  
@@ -139,13 +125,10 @@ Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_
 ### [Ota, LLC](https://njhomesalechecklist.com/lead/evaluators/ota-llc-l00818/)
 
 902 Centerton Rd, Mount Laurel, NJ 08054  
-☎ [(856) 993-3498](tel:8569933498)  
 Contact: Daniel Halgas
 
-🌐 [otainspections.com](http://www.otainspections.com/)  
-✉ [info@otainspections.com](mailto:info@otainspections.com)  
 Google rating 4.9 (131 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17469066554537267448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [otainspections.com](https://otainspections.com/), retrieved 2026-10-30.
+Google rating, retrieved 2026-10-30. Not from the DCA list.
 
 DCA cert #00818, expires 2028-07-29  
 Source: [DCA list rev. 8/11/2026](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12 · [Claim/correct/remove](https://njhomesalechecklist.com/list-your-business/?id=L00818)
@@ -156,12 +139,11 @@ Data last verified 2026-10-12 against the NJ DCA list of certified lead evaluati
 
 ## Ready to hire a lead evaluation contractor in Burlington County?
 
-1. Call two or three of the contractors above and ask whether they cover your town and what they charge.
+1. Use Get a quote to connect with up to 3 nearby DCA-certified contractors. They contact you directly. Ask each for its DCA certification number and whether it covers your town.
 2. Check the contractor's certification on the [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf).
 3. Selling? Work through the [NJ home sale checklist](/home-sale-checklist/) for the other certificates you may need.
 
 [Home sale checklist](https://njhomesalechecklist.com/home-sale-checklist/)
-
 
 Get free quotes: https://njhomesalechecklist.com/quotes/ sends one request to up to 3 NJ DCA-certified lead evaluation contractors near you. Free, no obligation.
 
