@@ -12,7 +12,7 @@ function cslug(c){return String(c||"").toLowerCase().replace(/[^a-z]+/g,"-")}
 var NEXT="<h3 class=\"lf-h\">What happens next</h3><ol><li>They contact you directly.</li><li>Ask each for its NJ DCA lead evaluation contractor certification number and a written quote before you hire.</li></ol>";
 forms.forEach(function(f){var src=f.querySelector("[name=source]");if(src)src.value=location.pathname;
  var id=f.querySelector("[name=idem]");if(id&&!id.value)id.value=uid();
- f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("pointerenter",loadTS,{once:true});
+ f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("change",loadTS,{once:true}); /* Turnstile loads on first focus or change, never on hover */
  var cs=f.querySelector("select[name=county]");if(cs&&pre&&!cs.value)cs.value=pre;
  var fi=f.querySelector("input[name=firm]"),fid=q.get("firm"),fr=fid&&(window.NET_FIRMS||{})[fid];
  if(fi&&fr){var fn=fr[0];fi.value=fid;var fl=f.querySelector(".lf-firm");if(fl){fl.innerHTML='We connect you with <strong>'+esc(fn)+'</strong> and up to 2 other nearby NJ DCA-certified lead evaluation contractors. They contact you directly.';fl.hidden=false}}
